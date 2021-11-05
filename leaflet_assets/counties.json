@@ -1,0 +1,3049 @@
+[{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d719d7"
+  },
+  "FID": "1",
+  "GID": "29",
+  "CMPTRL_NBR": "7",
+  "CNTY_NM": "Atascosa",
+  "DPS_NBR": "7",
+  "CNTY_FIPS": "48013",
+  "SHAPE_Length": 2.27361117052151,
+  "SHAPE_Area": 0.291800631642301
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d719d8"
+  },
+  "FID": "2",
+  "GID": "30",
+  "CMPTRL_NBR": "158",
+  "CNTY_NM": "Matagorda",
+  "DPS_NBR": "161",
+  "CNTY_FIPS": "48321",
+  "SHAPE_Length": 8.74746132061925,
+  "SHAPE_Area": 0.272799643527538
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d719d9"
+  },
+  "FID": "3",
+  "GID": "31",
+  "CMPTRL_NBR": "120",
+  "CNTY_NM": "Jackson",
+  "DPS_NBR": "120",
+  "CNTY_FIPS": "48239",
+  "SHAPE_Length": 2.9895321572283,
+  "SHAPE_Area": 0.203835034015565
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d719da"
+  },
+  "FID": "4",
+  "GID": "32",
+  "CMPTRL_NBR": "62",
+  "CNTY_NM": "De Witt",
+  "DPS_NBR": "62",
+  "CNTY_FIPS": "48123",
+  "SHAPE_Length": 2.06555851835458,
+  "SHAPE_Area": 0.218449427756841
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d719db"
+  },
+  "FID": "5",
+  "GID": "33",
+  "CMPTRL_NBR": "247",
+  "CNTY_NM": "Wilson",
+  "DPS_NBR": "247",
+  "CNTY_FIPS": "48493",
+  "SHAPE_Length": 1.91717635586067,
+  "SHAPE_Area": 0.193944129668344
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d719dc"
+  },
+  "FID": "6",
+  "GID": "34",
+  "CMPTRL_NBR": "136",
+  "CNTY_NM": "Kinney",
+  "DPS_NBR": "136",
+  "CNTY_FIPS": "48271",
+  "SHAPE_Length": 2.431028469651,
+  "SHAPE_Area": 0.328233145722516
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d719dd"
+  },
+  "FID": "7",
+  "GID": "35",
+  "CMPTRL_NBR": "232",
+  "CNTY_NM": "Uvalde",
+  "DPS_NBR": "232",
+  "CNTY_FIPS": "48463",
+  "SHAPE_Length": 2.47566656284518,
+  "SHAPE_Area": 0.376204076901742
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d719de"
+  },
+  "FID": "8",
+  "GID": "36",
+  "CMPTRL_NBR": "143",
+  "CNTY_NM": "Lavaca",
+  "DPS_NBR": "143",
+  "CNTY_FIPS": "48285",
+  "SHAPE_Length": 1.92838487370288,
+  "SHAPE_Area": 0.233736969317406
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d719df"
+  },
+  "FID": "9",
+  "GID": "37",
+  "CMPTRL_NBR": "20",
+  "CNTY_NM": "Brazoria",
+  "DPS_NBR": "20",
+  "CNTY_FIPS": "48039",
+  "SHAPE_Length": 8.45000049918581,
+  "SHAPE_Area": 0.34286990076586
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d719e0"
+  },
+  "FID": "10",
+  "GID": "38",
+  "CMPTRL_NBR": "241",
+  "CNTY_NM": "Wharton",
+  "DPS_NBR": "241",
+  "CNTY_FIPS": "48481",
+  "SHAPE_Length": 2.46735388395822,
+  "SHAPE_Area": 0.263143183828965
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d719e1"
+  },
+  "FID": "11",
+  "GID": "39",
+  "CMPTRL_NBR": "163",
+  "CNTY_NM": "Medina",
+  "DPS_NBR": "163",
+  "CNTY_FIPS": "48325",
+  "SHAPE_Length": 2.49700012685015,
+  "SHAPE_Area": 0.321765700102464
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d719e2"
+  },
+  "FID": "12",
+  "GID": "40",
+  "CMPTRL_NBR": "84",
+  "CNTY_NM": "Galveston",
+  "DPS_NBR": "84",
+  "CNTY_FIPS": "48167",
+  "SHAPE_Length": 9.3502498957904,
+  "SHAPE_Area": 0.0963206247724265
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d719e3"
+  },
+  "FID": "13",
+  "GID": "41",
+  "CMPTRL_NBR": "15",
+  "CNTY_NM": "Bexar",
+  "DPS_NBR": "15",
+  "CNTY_FIPS": "48029",
+  "SHAPE_Length": 2.72979169802083,
+  "SHAPE_Area": 0.30284573309718
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d719e4"
+  },
+  "FID": "14",
+  "GID": "42",
+  "CMPTRL_NBR": "89",
+  "CNTY_NM": "Gonzales",
+  "DPS_NBR": "89",
+  "CNTY_FIPS": "48177",
+  "SHAPE_Length": 2.12491109843536,
+  "SHAPE_Area": 0.257804943602916
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d719e5"
+  },
+  "FID": "15",
+  "GID": "43",
+  "CMPTRL_NBR": "79",
+  "CNTY_NM": "Fort Bend",
+  "DPS_NBR": "79",
+  "CNTY_FIPS": "48157",
+  "SHAPE_Length": 2.51797860819306,
+  "SHAPE_Area": 0.213479891587576
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d719e6"
+  },
+  "FID": "16",
+  "GID": "44",
+  "CMPTRL_NBR": "94",
+  "CNTY_NM": "Guadalupe",
+  "DPS_NBR": "94",
+  "CNTY_FIPS": "48187",
+  "SHAPE_Length": 2.38821102833929,
+  "SHAPE_Area": 0.172719430478467
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d719e7"
+  },
+  "FID": "17",
+  "GID": "45",
+  "CMPTRL_NBR": "10",
+  "CNTY_NM": "Bandera",
+  "DPS_NBR": "10",
+  "CNTY_FIPS": "48019",
+  "SHAPE_Length": 2.12084345037661,
+  "SHAPE_Area": 0.192677550011771
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d719e8"
+  },
+  "FID": "18",
+  "GID": "46",
+  "CMPTRL_NBR": "45",
+  "CNTY_NM": "Colorado",
+  "DPS_NBR": "45",
+  "CNTY_FIPS": "48089",
+  "SHAPE_Length": 2.36117443874535,
+  "SHAPE_Area": 0.234963273004999
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d719e9"
+  },
+  "FID": "19",
+  "GID": "47",
+  "CMPTRL_NBR": "36",
+  "CNTY_NM": "Chambers",
+  "DPS_NBR": "36",
+  "CNTY_FIPS": "48071",
+  "SHAPE_Length": 3.95463760868259,
+  "SHAPE_Area": 0.152677718414421
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d719ea"
+  },
+  "FID": "20",
+  "GID": "48",
+  "CMPTRL_NBR": "46",
+  "CNTY_NM": "Comal",
+  "DPS_NBR": "46",
+  "CNTY_FIPS": "48091",
+  "SHAPE_Length": 1.9490371003944,
+  "SHAPE_Area": 0.139000633233289
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d719eb"
+  },
+  "FID": "21",
+  "GID": "49",
+  "CMPTRL_NBR": "193",
+  "CNTY_NM": "Real",
+  "DPS_NBR": "193",
+  "CNTY_FIPS": "48385",
+  "SHAPE_Length": 1.86744147337545,
+  "SHAPE_Area": 0.169204965389272
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d719ec"
+  },
+  "FID": "22",
+  "GID": "50",
+  "CMPTRL_NBR": "28",
+  "CNTY_NM": "Caldwell",
+  "DPS_NBR": "28",
+  "CNTY_FIPS": "48055",
+  "SHAPE_Length": 1.87038642464758,
+  "SHAPE_Area": 0.132116412369491
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d719ed"
+  },
+  "FID": "23",
+  "GID": "51",
+  "CMPTRL_NBR": "130",
+  "CNTY_NM": "Kendall",
+  "DPS_NBR": "130",
+  "CNTY_FIPS": "48259",
+  "SHAPE_Length": 1.60634361275311,
+  "SHAPE_Area": 0.160452898781716
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d719ee"
+  },
+  "FID": "24",
+  "GID": "52",
+  "CMPTRL_NBR": "8",
+  "CNTY_NM": "Austin",
+  "DPS_NBR": "8",
+  "CNTY_FIPS": "48015",
+  "SHAPE_Length": 2.48168991476525,
+  "SHAPE_Area": 0.158727327790968
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d719ef"
+  },
+  "FID": "25",
+  "GID": "53",
+  "CMPTRL_NBR": "75",
+  "CNTY_NM": "Fayette",
+  "DPS_NBR": "75",
+  "CNTY_FIPS": "48149",
+  "SHAPE_Length": 2.03901972642212,
+  "SHAPE_Area": 0.232060588087798
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d719f0"
+  },
+  "FID": "26",
+  "GID": "54",
+  "CMPTRL_NBR": "101",
+  "CNTY_NM": "Harris",
+  "DPS_NBR": "101",
+  "CNTY_FIPS": "48201",
+  "SHAPE_Length": 7.73111185063718,
+  "SHAPE_Area": 0.422798554244316
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d719f1"
+  },
+  "FID": "27",
+  "GID": "55",
+  "CMPTRL_NBR": "69",
+  "CNTY_NM": "Edwards",
+  "DPS_NBR": "69",
+  "CNTY_FIPS": "48137",
+  "SHAPE_Length": 3.37030040478625,
+  "SHAPE_Area": 0.513424303171661
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d719f2"
+  },
+  "FID": "28",
+  "GID": "56",
+  "CMPTRL_NBR": "133",
+  "CNTY_NM": "Kerr",
+  "DPS_NBR": "133",
+  "CNTY_FIPS": "48265",
+  "SHAPE_Length": 2.58999945038117,
+  "SHAPE_Area": 0.268287431762728
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d719f3"
+  },
+  "FID": "29",
+  "GID": "57",
+  "CMPTRL_NBR": "233",
+  "CNTY_NM": "Val Verde",
+  "DPS_NBR": "233",
+  "CNTY_FIPS": "48465",
+  "SHAPE_Length": 4.41738171854202,
+  "SHAPE_Area": 0.781933866695255
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d719f4"
+  },
+  "FID": "30",
+  "GID": "58",
+  "CMPTRL_NBR": "237",
+  "CNTY_NM": "Waller",
+  "DPS_NBR": "237",
+  "CNTY_FIPS": "48473",
+  "SHAPE_Length": 2.4351996797651,
+  "SHAPE_Area": 0.12542425867732
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d719f5"
+  },
+  "FID": "31",
+  "GID": "59",
+  "CMPTRL_NBR": "123",
+  "CNTY_NM": "Jefferson",
+  "DPS_NBR": "123",
+  "CNTY_FIPS": "48245",
+  "SHAPE_Length": 5.23021886446241,
+  "SHAPE_Area": 0.231656221170201
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d719f6"
+  },
+  "FID": "32",
+  "GID": "60",
+  "CMPTRL_NBR": "105",
+  "CNTY_NM": "Hays",
+  "DPS_NBR": "105",
+  "CNTY_FIPS": "48209",
+  "SHAPE_Length": 1.80322687370217,
+  "SHAPE_Area": 0.164423026375658
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d719f7"
+  },
+  "FID": "33",
+  "GID": "1",
+  "CMPTRL_NBR": "31",
+  "CNTY_NM": "Cameron",
+  "DPS_NBR": "31",
+  "CNTY_FIPS": "48061",
+  "SHAPE_Length": 6.77649225627992,
+  "SHAPE_Area": 0.237848508920509
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d719f8"
+  },
+  "FID": "34",
+  "GID": "2",
+  "CMPTRL_NBR": "245",
+  "CNTY_NM": "Willacy",
+  "DPS_NBR": "245",
+  "CNTY_FIPS": "48489",
+  "SHAPE_Length": 3.32417017002543,
+  "SHAPE_Area": 0.155451157194943
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d719f9"
+  },
+  "FID": "35",
+  "GID": "3",
+  "CMPTRL_NBR": "214",
+  "CNTY_NM": "Starr",
+  "DPS_NBR": "214",
+  "CNTY_FIPS": "48427",
+  "SHAPE_Length": 2.60037588215209,
+  "SHAPE_Area": 0.28849243202357
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d719fa"
+  },
+  "FID": "36",
+  "GID": "4",
+  "CMPTRL_NBR": "108",
+  "CNTY_NM": "Hidalgo",
+  "DPS_NBR": "108",
+  "CNTY_FIPS": "48215",
+  "SHAPE_Length": 3.3102105253216,
+  "SHAPE_Area": 0.370852369398275
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d719fb"
+  },
+  "FID": "37",
+  "GID": "5",
+  "CMPTRL_NBR": "24",
+  "CNTY_NM": "Brooks",
+  "DPS_NBR": "24",
+  "CNTY_FIPS": "48047",
+  "SHAPE_Length": 2.05681559758165,
+  "SHAPE_Area": 0.222310637507989
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d719fc"
+  },
+  "FID": "38",
+  "GID": "6",
+  "CMPTRL_NBR": "131",
+  "CNTY_NM": "Kenedy",
+  "DPS_NBR": "131",
+  "CNTY_FIPS": "48261",
+  "SHAPE_Length": 5.06786543403313,
+  "SHAPE_Area": 0.389397530037012
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d719fd"
+  },
+  "FID": "39",
+  "GID": "7",
+  "CMPTRL_NBR": "253",
+  "CNTY_NM": "Zapata",
+  "DPS_NBR": "253",
+  "CNTY_FIPS": "48505",
+  "SHAPE_Length": 2.24698242522378,
+  "SHAPE_Area": 0.249215131614828
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d719fe"
+  },
+  "FID": "40",
+  "GID": "8",
+  "CMPTRL_NBR": "124",
+  "CNTY_NM": "Jim Hogg",
+  "DPS_NBR": "124",
+  "CNTY_FIPS": "48247",
+  "SHAPE_Length": 2.27175181422536,
+  "SHAPE_Area": 0.267624246394897
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d719ff"
+  },
+  "FID": "41",
+  "GID": "9",
+  "CMPTRL_NBR": "137",
+  "CNTY_NM": "Kleberg",
+  "DPS_NBR": "137",
+  "CNTY_FIPS": "48273",
+  "SHAPE_Length": 4.44494000769653,
+  "SHAPE_Area": 0.213851169748525
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a00"
+  },
+  "FID": "42",
+  "GID": "10",
+  "CMPTRL_NBR": "178",
+  "CNTY_NM": "Nueces",
+  "DPS_NBR": "178",
+  "CNTY_FIPS": "48355",
+  "SHAPE_Length": 9.8146553975325,
+  "SHAPE_Area": 0.203472440840495
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a01"
+  },
+  "FID": "43",
+  "GID": "11",
+  "CMPTRL_NBR": "66",
+  "CNTY_NM": "Duval",
+  "DPS_NBR": "66",
+  "CNTY_FIPS": "48131",
+  "SHAPE_Length": 2.76954551935718,
+  "SHAPE_Area": 0.425467199592854
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a02"
+  },
+  "FID": "44",
+  "GID": "12",
+  "CMPTRL_NBR": "125",
+  "CNTY_NM": "Jim Wells",
+  "DPS_NBR": "125",
+  "CNTY_FIPS": "48249",
+  "SHAPE_Length": 2.4270150096134,
+  "SHAPE_Area": 0.205830728664683
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a03"
+  },
+  "FID": "45",
+  "GID": "13",
+  "CMPTRL_NBR": "205",
+  "CNTY_NM": "San Patricio",
+  "DPS_NBR": "205",
+  "CNTY_FIPS": "48409",
+  "SHAPE_Length": 3.46210665273794,
+  "SHAPE_Area": 0.16765379360632
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a04"
+  },
+  "FID": "46",
+  "GID": "14",
+  "CMPTRL_NBR": "240",
+  "CNTY_NM": "Webb",
+  "DPS_NBR": "240",
+  "CNTY_FIPS": "48479",
+  "SHAPE_Length": 4.76142143636554,
+  "SHAPE_Area": 0.799982130381279
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a05"
+  },
+  "FID": "47",
+  "GID": "15",
+  "CMPTRL_NBR": "4",
+  "CNTY_NM": "Aransas",
+  "DPS_NBR": "4",
+  "CNTY_FIPS": "48007",
+  "SHAPE_Length": 6.1253510864005,
+  "SHAPE_Area": 0.0671183504278165
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a06"
+  },
+  "FID": "48",
+  "GID": "16",
+  "CMPTRL_NBR": "196",
+  "CNTY_NM": "Refugio",
+  "DPS_NBR": "196",
+  "CNTY_FIPS": "48391",
+  "SHAPE_Length": 3.32671017192414,
+  "SHAPE_Area": 0.185681780859936
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a07"
+  },
+  "FID": "49",
+  "GID": "17",
+  "CMPTRL_NBR": "64",
+  "CNTY_NM": "Dimmit",
+  "DPS_NBR": "64",
+  "CNTY_FIPS": "48127",
+  "SHAPE_Length": 2.32466436488719,
+  "SHAPE_Area": 0.314454504105099
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a08"
+  },
+  "FID": "50",
+  "GID": "18",
+  "CMPTRL_NBR": "142",
+  "CNTY_NM": "La Salle",
+  "DPS_NBR": "142",
+  "CNTY_FIPS": "48283",
+  "SHAPE_Length": 2.40257958275727,
+  "SHAPE_Area": 0.358902698128611
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a09"
+  },
+  "FID": "51",
+  "GID": "19",
+  "CMPTRL_NBR": "162",
+  "CNTY_NM": "McMullen",
+  "DPS_NBR": "156",
+  "CNTY_FIPS": "48311",
+  "SHAPE_Length": 2.11890920935612,
+  "SHAPE_Area": 0.277594650855242
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a0a"
+  },
+  "FID": "52",
+  "GID": "20",
+  "CMPTRL_NBR": "13",
+  "CNTY_NM": "Bee",
+  "DPS_NBR": "13",
+  "CNTY_FIPS": "48025",
+  "SHAPE_Length": 2.22898182098986,
+  "SHAPE_Area": 0.209983672520949
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a0b"
+  },
+  "FID": "53",
+  "GID": "21",
+  "CMPTRL_NBR": "29",
+  "CNTY_NM": "Calhoun",
+  "DPS_NBR": "29",
+  "CNTY_FIPS": "48057",
+  "SHAPE_Length": 9.2895107728164,
+  "SHAPE_Area": 0.129738321512578
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a0c"
+  },
+  "FID": "54",
+  "GID": "22",
+  "CMPTRL_NBR": "149",
+  "CNTY_NM": "Live Oak",
+  "DPS_NBR": "149",
+  "CNTY_FIPS": "48297",
+  "SHAPE_Length": 2.31360396525171,
+  "SHAPE_Area": 0.257196148032065
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a0d"
+  },
+  "FID": "55",
+  "GID": "23",
+  "CMPTRL_NBR": "88",
+  "CNTY_NM": "Goliad",
+  "DPS_NBR": "88",
+  "CNTY_FIPS": "48175",
+  "SHAPE_Length": 2.17116928926357,
+  "SHAPE_Area": 0.20545120818127
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a0e"
+  },
+  "FID": "56",
+  "GID": "24",
+  "CMPTRL_NBR": "159",
+  "CNTY_NM": "Maverick",
+  "DPS_NBR": "162",
+  "CNTY_FIPS": "48323",
+  "SHAPE_Length": 2.86297281183171,
+  "SHAPE_Area": 0.3089810746018
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a0f"
+  },
+  "FID": "57",
+  "GID": "25",
+  "CMPTRL_NBR": "254",
+  "CNTY_NM": "Zavala",
+  "DPS_NBR": "254",
+  "CNTY_FIPS": "48507",
+  "SHAPE_Length": 2.30018486368783,
+  "SHAPE_Area": 0.311031360601686
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a10"
+  },
+  "FID": "58",
+  "GID": "26",
+  "CMPTRL_NBR": "82",
+  "CNTY_NM": "Frio",
+  "DPS_NBR": "82",
+  "CNTY_FIPS": "48163",
+  "SHAPE_Length": 2.11371111519707,
+  "SHAPE_Area": 0.271133894505313
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a11"
+  },
+  "FID": "59",
+  "GID": "27",
+  "CMPTRL_NBR": "235",
+  "CNTY_NM": "Victoria",
+  "DPS_NBR": "235",
+  "CNTY_FIPS": "48469",
+  "SHAPE_Length": 2.77529331700537,
+  "SHAPE_Area": 0.212539772979367
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a12"
+  },
+  "FID": "60",
+  "GID": "28",
+  "CMPTRL_NBR": "128",
+  "CNTY_NM": "Karnes",
+  "DPS_NBR": "128",
+  "CNTY_FIPS": "48255",
+  "SHAPE_Length": 1.98638231011653,
+  "SHAPE_Area": 0.179978263000099
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a13"
+  },
+  "FID": "61",
+  "GID": "135",
+  "CMPTRL_NBR": "115",
+  "CNTY_NM": "Hudspeth",
+  "DPS_NBR": "115",
+  "CNTY_FIPS": "48229",
+  "SHAPE_Length": 4.98747937683923,
+  "SHAPE_Area": 1.12311625687492
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a14"
+  },
+  "FID": "62",
+  "GID": "136",
+  "CMPTRL_NBR": "1",
+  "CNTY_NM": "Anderson",
+  "DPS_NBR": "1",
+  "CNTY_FIPS": "48001",
+  "SHAPE_Length": 3.70938183047198,
+  "SHAPE_Area": 0.265992076730462
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a15"
+  },
+  "FID": "63",
+  "GID": "137",
+  "CMPTRL_NBR": "71",
+  "CNTY_NM": "El Paso",
+  "DPS_NBR": "71",
+  "CNTY_FIPS": "48141",
+  "SHAPE_Length": 2.4355150325091,
+  "SHAPE_Area": 0.250160036668829
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a16"
+  },
+  "FID": "64",
+  "GID": "138",
+  "CMPTRL_NBR": "18",
+  "CNTY_NM": "Bosque",
+  "DPS_NBR": "18",
+  "CNTY_FIPS": "48035",
+  "SHAPE_Length": 2.55411393685528,
+  "SHAPE_Area": 0.247533572517498
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a17"
+  },
+  "FID": "65",
+  "GID": "139",
+  "CMPTRL_NBR": "37",
+  "CNTY_NM": "Cherokee",
+  "DPS_NBR": "37",
+  "CNTY_FIPS": "48073",
+  "SHAPE_Length": 3.63915234302728,
+  "SHAPE_Area": 0.262098521212151
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a18"
+  },
+  "FID": "66",
+  "GID": "140",
+  "CMPTRL_NBR": "47",
+  "CNTY_NM": "Comanche",
+  "DPS_NBR": "47",
+  "CNTY_FIPS": "48093",
+  "SHAPE_Length": 2.09543477877644,
+  "SHAPE_Area": 0.235314023273346
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a19"
+  },
+  "FID": "67",
+  "GID": "141",
+  "CMPTRL_NBR": "109",
+  "CNTY_NM": "Hill",
+  "DPS_NBR": "109",
+  "CNTY_FIPS": "48217",
+  "SHAPE_Length": 2.57039356962493,
+  "SHAPE_Area": 0.243702358078225
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a1a"
+  },
+  "FID": "68",
+  "GID": "142",
+  "CMPTRL_NBR": "213",
+  "CNTY_NM": "Somervell",
+  "DPS_NBR": "213",
+  "CNTY_FIPS": "48425",
+  "SHAPE_Length": 0.911909930231666,
+  "SHAPE_Area": 0.0474734690771096
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a1b"
+  },
+  "FID": "69",
+  "GID": "143",
+  "CMPTRL_NBR": "175",
+  "CNTY_NM": "Navarro",
+  "DPS_NBR": "175",
+  "CNTY_FIPS": "48349",
+  "SHAPE_Length": 2.49605451337314,
+  "SHAPE_Area": 0.268572716711173
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a1c"
+  },
+  "FID": "70",
+  "GID": "144",
+  "CMPTRL_NBR": "107",
+  "CNTY_NM": "Henderson",
+  "DPS_NBR": "107",
+  "CNTY_FIPS": "48213",
+  "SHAPE_Length": 3.15290951324651,
+  "SHAPE_Area": 0.235056319112149
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a1d"
+  },
+  "FID": "71",
+  "GID": "145",
+  "CMPTRL_NBR": "30",
+  "CNTY_NM": "Callahan",
+  "DPS_NBR": "30",
+  "CNTY_FIPS": "48059",
+  "SHAPE_Length": 1.89752411368987,
+  "SHAPE_Area": 0.223364468518721
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a1e"
+  },
+  "FID": "72",
+  "GID": "146",
+  "CMPTRL_NBR": "201",
+  "CNTY_NM": "Rusk",
+  "DPS_NBR": "201",
+  "CNTY_FIPS": "48401",
+  "SHAPE_Length": 2.44786895395733,
+  "SHAPE_Area": 0.232435945931032
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a1f"
+  },
+  "FID": "73",
+  "GID": "147",
+  "CMPTRL_NBR": "67",
+  "CNTY_NM": "Eastland",
+  "DPS_NBR": "67",
+  "CNTY_FIPS": "48133",
+  "SHAPE_Length": 1.98866879728797,
+  "SHAPE_Area": 0.230684181530801
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a20"
+  },
+  "FID": "74",
+  "GID": "148",
+  "CMPTRL_NBR": "221",
+  "CNTY_NM": "Taylor",
+  "DPS_NBR": "221",
+  "CNTY_FIPS": "48441",
+  "SHAPE_Length": 1.92001280962396,
+  "SHAPE_Area": 0.227958764105256
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a21"
+  },
+  "FID": "75",
+  "GID": "149",
+  "CMPTRL_NBR": "72",
+  "CNTY_NM": "Erath",
+  "DPS_NBR": "72",
+  "CNTY_FIPS": "48143",
+  "SHAPE_Length": 2.11437800522934,
+  "SHAPE_Area": 0.269412348464133
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a22"
+  },
+  "FID": "76",
+  "GID": "150",
+  "CMPTRL_NBR": "177",
+  "CNTY_NM": "Nolan",
+  "DPS_NBR": "177",
+  "CNTY_FIPS": "48353",
+  "SHAPE_Length": 1.91060422654756,
+  "SHAPE_Area": 0.226700712091568
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a23"
+  },
+  "FID": "77",
+  "GID": "151",
+  "CMPTRL_NBR": "183",
+  "CNTY_NM": "Panola",
+  "DPS_NBR": "183",
+  "CNTY_FIPS": "48365",
+  "SHAPE_Length": 2.05738327016143,
+  "SHAPE_Area": 0.203268384159424
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a24"
+  },
+  "FID": "78",
+  "GID": "152",
+  "CMPTRL_NBR": "168",
+  "CNTY_NM": "Mitchell",
+  "DPS_NBR": "168",
+  "CNTY_FIPS": "48335",
+  "SHAPE_Length": 1.91467473283867,
+  "SHAPE_Area": 0.227360821885611
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a25"
+  },
+  "FID": "79",
+  "GID": "153",
+  "CMPTRL_NBR": "114",
+  "CNTY_NM": "Howard",
+  "DPS_NBR": "114",
+  "CNTY_FIPS": "48227",
+  "SHAPE_Length": 1.90037524065767,
+  "SHAPE_Area": 0.224254076195528
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a26"
+  },
+  "FID": "80",
+  "GID": "154",
+  "CMPTRL_NBR": "156",
+  "CNTY_NM": "Martin",
+  "DPS_NBR": "159",
+  "CNTY_FIPS": "48317",
+  "SHAPE_Length": 1.91268474908405,
+  "SHAPE_Area": 0.227088607231661
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a27"
+  },
+  "FID": "81",
+  "GID": "155",
+  "CMPTRL_NBR": "2",
+  "CNTY_NM": "Andrews",
+  "DPS_NBR": "2",
+  "CNTY_FIPS": "48003",
+  "SHAPE_Length": 2.57960271701029,
+  "SHAPE_Area": 0.372269628809203
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a28"
+  },
+  "FID": "82",
+  "GID": "156",
+  "CMPTRL_NBR": "111",
+  "CNTY_NM": "Hood",
+  "DPS_NBR": "111",
+  "CNTY_FIPS": "48221",
+  "SHAPE_Length": 1.39800375058954,
+  "SHAPE_Area": 0.109374160547366
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a29"
+  },
+  "FID": "83",
+  "GID": "157",
+  "CMPTRL_NBR": "126",
+  "CNTY_NM": "Johnson",
+  "DPS_NBR": "126",
+  "CNTY_FIPS": "48251",
+  "SHAPE_Length": 1.82806611113893,
+  "SHAPE_Area": 0.182149300617823
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a2a"
+  },
+  "FID": "84",
+  "GID": "158",
+  "CMPTRL_NBR": "70",
+  "CNTY_NM": "Ellis",
+  "DPS_NBR": "70",
+  "CNTY_FIPS": "48139",
+  "SHAPE_Length": 2.24502500361233,
+  "SHAPE_Area": 0.236142235788908
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a2b"
+  },
+  "FID": "85",
+  "GID": "159",
+  "CMPTRL_NBR": "212",
+  "CNTY_NM": "Smith",
+  "DPS_NBR": "212",
+  "CNTY_FIPS": "48423",
+  "SHAPE_Length": 2.91921674407381,
+  "SHAPE_Area": 0.23571878418265
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a2c"
+  },
+  "FID": "86",
+  "GID": "160",
+  "CMPTRL_NBR": "92",
+  "CNTY_NM": "Gregg",
+  "DPS_NBR": "92",
+  "CNTY_FIPS": "48183",
+  "SHAPE_Length": 1.34278333782471,
+  "SHAPE_Area": 0.068262205830876
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a2d"
+  },
+  "FID": "87",
+  "GID": "161",
+  "CMPTRL_NBR": "129",
+  "CNTY_NM": "Kaufman",
+  "DPS_NBR": "129",
+  "CNTY_FIPS": "48257",
+  "SHAPE_Length": 2.00223117437369,
+  "SHAPE_Area": 0.20093531226994
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a2e"
+  },
+  "FID": "88",
+  "GID": "162",
+  "CMPTRL_NBR": "102",
+  "CNTY_NM": "Harrison",
+  "DPS_NBR": "102",
+  "CNTY_FIPS": "48203",
+  "SHAPE_Length": 2.56357207378238,
+  "SHAPE_Area": 0.227726012898743
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a2f"
+  },
+  "FID": "89",
+  "GID": "163",
+  "CMPTRL_NBR": "234",
+  "CNTY_NM": "Van Zandt",
+  "DPS_NBR": "234",
+  "CNTY_FIPS": "48467",
+  "SHAPE_Length": 2.40284409243015,
+  "SHAPE_Area": 0.213776843534267
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a30"
+  },
+  "FID": "90",
+  "GID": "164",
+  "CMPTRL_NBR": "209",
+  "CNTY_NM": "Shackelford",
+  "DPS_NBR": "209",
+  "CNTY_FIPS": "48417",
+  "SHAPE_Length": 1.91581950707266,
+  "SHAPE_Area": 0.228163273582286
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a31"
+  },
+  "FID": "91",
+  "GID": "165",
+  "CMPTRL_NBR": "127",
+  "CNTY_NM": "Jones",
+  "DPS_NBR": "127",
+  "CNTY_FIPS": "48253",
+  "SHAPE_Length": 1.95256039332003,
+  "SHAPE_Area": 0.233292158259599
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a32"
+  },
+  "FID": "92",
+  "GID": "166",
+  "CMPTRL_NBR": "215",
+  "CNTY_NM": "Stephens",
+  "DPS_NBR": "215",
+  "CNTY_FIPS": "48429",
+  "SHAPE_Length": 1.92250022670878,
+  "SHAPE_Area": 0.229654318195516
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a33"
+  },
+  "FID": "93",
+  "GID": "167",
+  "CMPTRL_NBR": "76",
+  "CNTY_NM": "Fisher",
+  "DPS_NBR": "76",
+  "CNTY_FIPS": "48151",
+  "SHAPE_Length": 1.90303080504635,
+  "SHAPE_Area": 0.225014429070934
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a34"
+  },
+  "FID": "94",
+  "GID": "168",
+  "CMPTRL_NBR": "17",
+  "CNTY_NM": "Borden",
+  "DPS_NBR": "17",
+  "CNTY_FIPS": "48033",
+  "SHAPE_Length": 1.90867954467463,
+  "SHAPE_Area": 0.22582426358585
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a35"
+  },
+  "FID": "95",
+  "GID": "169",
+  "CMPTRL_NBR": "208",
+  "CNTY_NM": "Scurry",
+  "DPS_NBR": "208",
+  "CNTY_FIPS": "48415",
+  "SHAPE_Length": 1.90558637965999,
+  "SHAPE_Area": 0.226711800689649
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a36"
+  },
+  "FID": "96",
+  "GID": "61",
+  "CMPTRL_NBR": "181",
+  "CNTY_NM": "Orange",
+  "DPS_NBR": "181",
+  "CNTY_FIPS": "48361",
+  "SHAPE_Length": 1.87203032783738,
+  "SHAPE_Area": 0.08853216284947
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a37"
+  },
+  "FID": "97",
+  "GID": "62",
+  "CMPTRL_NBR": "11",
+  "CNTY_NM": "Bastrop",
+  "DPS_NBR": "11",
+  "CNTY_FIPS": "48021",
+  "SHAPE_Length": 1.83148220035066,
+  "SHAPE_Area": 0.217074808918042
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a38"
+  },
+  "FID": "98",
+  "GID": "63",
+  "CMPTRL_NBR": "239",
+  "CNTY_NM": "Washington",
+  "DPS_NBR": "239",
+  "CNTY_FIPS": "48477",
+  "SHAPE_Length": 2.54710621374756,
+  "SHAPE_Area": 0.150743603348947
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a39"
+  },
+  "FID": "99",
+  "GID": "64",
+  "CMPTRL_NBR": "86",
+  "CNTY_NM": "Gillespie",
+  "DPS_NBR": "86",
+  "CNTY_FIPS": "48171",
+  "SHAPE_Length": 2.15099785834708,
+  "SHAPE_Area": 0.257843995696828
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a3a"
+  },
+  "FID": "100",
+  "GID": "65",
+  "CMPTRL_NBR": "16",
+  "CNTY_NM": "Blanco",
+  "DPS_NBR": "16",
+  "CNTY_FIPS": "48031",
+  "SHAPE_Length": 1.68359693161735,
+  "SHAPE_Area": 0.173305970680821
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a3b"
+  },
+  "FID": "101",
+  "GID": "66",
+  "CMPTRL_NBR": "144",
+  "CNTY_NM": "Lee",
+  "DPS_NBR": "144",
+  "CNTY_FIPS": "48287",
+  "SHAPE_Length": 2.21385384417297,
+  "SHAPE_Area": 0.153990528749358
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a3c"
+  },
+  "FID": "102",
+  "GID": "67",
+  "CMPTRL_NBR": "146",
+  "CNTY_NM": "Liberty",
+  "DPS_NBR": "146",
+  "CNTY_FIPS": "48291",
+  "SHAPE_Length": 2.40183293789117,
+  "SHAPE_Area": 0.284788646159265
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a3d"
+  },
+  "FID": "103",
+  "GID": "68",
+  "CMPTRL_NBR": "227",
+  "CNTY_NM": "Travis",
+  "DPS_NBR": "227",
+  "CNTY_FIPS": "48453",
+  "SHAPE_Length": 2.45827301961643,
+  "SHAPE_Area": 0.24899651741744
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a3e"
+  },
+  "FID": "104",
+  "GID": "69",
+  "CMPTRL_NBR": "100",
+  "CNTY_NM": "Hardin",
+  "DPS_NBR": "100",
+  "CNTY_FIPS": "48199",
+  "SHAPE_Length": 2.70612891096755,
+  "SHAPE_Area": 0.218060471568571
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a3f"
+  },
+  "FID": "105",
+  "GID": "70",
+  "CMPTRL_NBR": "222",
+  "CNTY_NM": "Terrell",
+  "DPS_NBR": "222",
+  "CNTY_FIPS": "48443",
+  "SHAPE_Length": 3.84349506950217,
+  "SHAPE_Area": 0.572454121426864
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a40"
+  },
+  "FID": "106",
+  "GID": "71",
+  "CMPTRL_NBR": "170",
+  "CNTY_NM": "Montgomery",
+  "DPS_NBR": "170",
+  "CNTY_FIPS": "48339",
+  "SHAPE_Length": 2.68924386340101,
+  "SHAPE_Area": 0.261548194243143
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a41"
+  },
+  "FID": "107",
+  "GID": "72",
+  "CMPTRL_NBR": "218",
+  "CNTY_NM": "Sutton",
+  "DPS_NBR": "218",
+  "CNTY_FIPS": "48435",
+  "SHAPE_Length": 2.53057113510211,
+  "SHAPE_Area": 0.352582591584375
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a42"
+  },
+  "FID": "108",
+  "GID": "73",
+  "CMPTRL_NBR": "134",
+  "CNTY_NM": "Kimble",
+  "DPS_NBR": "134",
+  "CNTY_FIPS": "48267",
+  "SHAPE_Length": 2.47241106039409,
+  "SHAPE_Area": 0.304157499675038
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a43"
+  },
+  "FID": "109",
+  "GID": "74",
+  "CMPTRL_NBR": "22",
+  "CNTY_NM": "Brewster",
+  "DPS_NBR": "22",
+  "CNTY_FIPS": "48043",
+  "SHAPE_Length": 6.00489757138012,
+  "SHAPE_Area": 1.49709365663116
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a44"
+  },
+  "FID": "110",
+  "GID": "75",
+  "CMPTRL_NBR": "189",
+  "CNTY_NM": "Presidio",
+  "DPS_NBR": "189",
+  "CNTY_FIPS": "48377",
+  "SHAPE_Length": 5.30846553854377,
+  "SHAPE_Area": 0.93375995344967
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a45"
+  },
+  "FID": "111",
+  "GID": "76",
+  "CMPTRL_NBR": "26",
+  "CNTY_NM": "Burleson",
+  "DPS_NBR": "26",
+  "CNTY_FIPS": "48051",
+  "SHAPE_Length": 2.4836744809935,
+  "SHAPE_Area": 0.164949620545195
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a46"
+  },
+  "FID": "112",
+  "GID": "77",
+  "CMPTRL_NBR": "246",
+  "CNTY_NM": "Williamson",
+  "DPS_NBR": "246",
+  "CNTY_FIPS": "48491",
+  "SHAPE_Length": 2.48229184547809,
+  "SHAPE_Area": 0.276928460632761
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a47"
+  },
+  "FID": "113",
+  "GID": "78",
+  "CMPTRL_NBR": "93",
+  "CNTY_NM": "Grimes",
+  "DPS_NBR": "93",
+  "CNTY_FIPS": "48185",
+  "SHAPE_Length": 2.42739157868516,
+  "SHAPE_Area": 0.195299143797617
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a48"
+  },
+  "FID": "114",
+  "GID": "79",
+  "CMPTRL_NBR": "150",
+  "CNTY_NM": "Llano",
+  "DPS_NBR": "150",
+  "CNTY_FIPS": "48299",
+  "SHAPE_Length": 2.32327661233187,
+  "SHAPE_Area": 0.235689285350273
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a49"
+  },
+  "FID": "115",
+  "GID": "80",
+  "CMPTRL_NBR": "157",
+  "CNTY_NM": "Mason",
+  "DPS_NBR": "160",
+  "CNTY_FIPS": "48319",
+  "SHAPE_Length": 1.92661496458232,
+  "SHAPE_Area": 0.227714893944775
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a4a"
+  },
+  "FID": "116",
+  "GID": "81",
+  "CMPTRL_NBR": "204",
+  "CNTY_NM": "San Jacinto",
+  "DPS_NBR": "204",
+  "CNTY_FIPS": "48407",
+  "SHAPE_Length": 2.20335767036955,
+  "SHAPE_Area": 0.153019127015979
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a4b"
+  },
+  "FID": "117",
+  "GID": "82",
+  "CMPTRL_NBR": "21",
+  "CNTY_NM": "Brazos",
+  "DPS_NBR": "21",
+  "CNTY_FIPS": "48041",
+  "SHAPE_Length": 2.81159165441033,
+  "SHAPE_Area": 0.143907010821428
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a4c"
+  },
+  "FID": "118",
+  "GID": "83",
+  "CMPTRL_NBR": "27",
+  "CNTY_NM": "Burnet",
+  "DPS_NBR": "27",
+  "CNTY_FIPS": "48053",
+  "SHAPE_Length": 2.49422361183283,
+  "SHAPE_Area": 0.249033768364329
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a4d"
+  },
+  "FID": "119",
+  "GID": "84",
+  "CMPTRL_NBR": "164",
+  "CNTY_NM": "Menard",
+  "DPS_NBR": "164",
+  "CNTY_FIPS": "48327",
+  "SHAPE_Length": 2.01775580001771,
+  "SHAPE_Area": 0.220448521860866
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a4e"
+  },
+  "FID": "120",
+  "GID": "85",
+  "CMPTRL_NBR": "207",
+  "CNTY_NM": "Schleicher",
+  "DPS_NBR": "207",
+  "CNTY_FIPS": "48413",
+  "SHAPE_Length": 2.45086712878815,
+  "SHAPE_Area": 0.321456312355408
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a4f"
+  },
+  "FID": "121",
+  "GID": "86",
+  "CMPTRL_NBR": "53",
+  "CNTY_NM": "Crockett",
+  "DPS_NBR": "53",
+  "CNTY_FIPS": "48105",
+  "SHAPE_Length": 5.08101982324706,
+  "SHAPE_Area": 0.684742701913661
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a50"
+  },
+  "FID": "122",
+  "GID": "87",
+  "CMPTRL_NBR": "236",
+  "CNTY_NM": "Walker",
+  "DPS_NBR": "236",
+  "CNTY_FIPS": "48471",
+  "SHAPE_Length": 2.15204129905127,
+  "SHAPE_Area": 0.195448405536112
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a51"
+  },
+  "FID": "123",
+  "GID": "88",
+  "CMPTRL_NBR": "166",
+  "CNTY_NM": "Milam",
+  "DPS_NBR": "166",
+  "CNTY_FIPS": "48331",
+  "SHAPE_Length": 2.30270424749757,
+  "SHAPE_Area": 0.249329980302787
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a52"
+  },
+  "FID": "124",
+  "GID": "89",
+  "CMPTRL_NBR": "154",
+  "CNTY_NM": "Madison",
+  "DPS_NBR": "157",
+  "CNTY_FIPS": "48313",
+  "SHAPE_Length": 2.01243546814121,
+  "SHAPE_Area": 0.115431348955808
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a53"
+  },
+  "FID": "125",
+  "GID": "90",
+  "CMPTRL_NBR": "122",
+  "CNTY_NM": "Jeff Davis",
+  "DPS_NBR": "122",
+  "CNTY_FIPS": "48243",
+  "SHAPE_Length": 3.43875552124203,
+  "SHAPE_Area": 0.552008658428607
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a54"
+  },
+  "FID": "126",
+  "GID": "91",
+  "CMPTRL_NBR": "229",
+  "CNTY_NM": "Tyler",
+  "DPS_NBR": "229",
+  "CNTY_FIPS": "48457",
+  "SHAPE_Length": 2.67386636709564,
+  "SHAPE_Area": 0.228323730323779
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a55"
+  },
+  "FID": "127",
+  "GID": "92",
+  "CMPTRL_NBR": "187",
+  "CNTY_NM": "Polk",
+  "DPS_NBR": "187",
+  "CNTY_FIPS": "48373",
+  "SHAPE_Length": 2.78148564128115,
+  "SHAPE_Area": 0.27105927016305
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a56"
+  },
+  "FID": "128",
+  "GID": "93",
+  "CMPTRL_NBR": "121",
+  "CNTY_NM": "Jasper",
+  "DPS_NBR": "121",
+  "CNTY_FIPS": "48241",
+  "SHAPE_Length": 3.77204352417622,
+  "SHAPE_Area": 0.236629223911197
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a57"
+  },
+  "FID": "129",
+  "GID": "94",
+  "CMPTRL_NBR": "14",
+  "CNTY_NM": "Bell",
+  "DPS_NBR": "14",
+  "CNTY_FIPS": "48027",
+  "SHAPE_Length": 2.17876208851536,
+  "SHAPE_Area": 0.26592668594215
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a58"
+  },
+  "FID": "130",
+  "GID": "95",
+  "CMPTRL_NBR": "176",
+  "CNTY_NM": "Newton",
+  "DPS_NBR": "176",
+  "CNTY_FIPS": "48351",
+  "SHAPE_Length": 3.66910246855514,
+  "SHAPE_Area": 0.22943052806397
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a59"
+  },
+  "FID": "131",
+  "GID": "96",
+  "CMPTRL_NBR": "186",
+  "CNTY_NM": "Pecos",
+  "DPS_NBR": "186",
+  "CNTY_FIPS": "48371",
+  "SHAPE_Length": 6.10716428503247,
+  "SHAPE_Area": 1.16256100268209
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a5a"
+  },
+  "FID": "132",
+  "GID": "97",
+  "CMPTRL_NBR": "198",
+  "CNTY_NM": "Robertson",
+  "DPS_NBR": "198",
+  "CNTY_FIPS": "48395",
+  "SHAPE_Length": 2.50312322349777,
+  "SHAPE_Area": 0.211742353444617
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a5b"
+  },
+  "FID": "133",
+  "GID": "98",
+  "CMPTRL_NBR": "141",
+  "CNTY_NM": "Lampasas",
+  "DPS_NBR": "141",
+  "CNTY_FIPS": "48281",
+  "SHAPE_Length": 1.9989403562894,
+  "SHAPE_Area": 0.175008505887606
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a5c"
+  },
+  "FID": "134",
+  "GID": "99",
+  "CMPTRL_NBR": "228",
+  "CNTY_NM": "Trinity",
+  "DPS_NBR": "228",
+  "CNTY_FIPS": "48455",
+  "SHAPE_Length": 2.23550787226231,
+  "SHAPE_Area": 0.174571826408952
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a5d"
+  },
+  "FID": "135",
+  "GID": "100",
+  "CMPTRL_NBR": "206",
+  "CNTY_NM": "San Saba",
+  "DPS_NBR": "206",
+  "CNTY_FIPS": "48411",
+  "SHAPE_Length": 3.113854814893,
+  "SHAPE_Area": 0.278794210207758
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a5e"
+  },
+  "FID": "136",
+  "GID": "101",
+  "CMPTRL_NBR": "160",
+  "CNTY_NM": "McCulloch",
+  "DPS_NBR": "154",
+  "CNTY_FIPS": "48307",
+  "SHAPE_Length": 2.44015900950078,
+  "SHAPE_Area": 0.263267717577937
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a5f"
+  },
+  "FID": "137",
+  "GID": "102",
+  "CMPTRL_NBR": "118",
+  "CNTY_NM": "Irion",
+  "DPS_NBR": "118",
+  "CNTY_FIPS": "48235",
+  "SHAPE_Length": 2.04873334923601,
+  "SHAPE_Area": 0.258119359133814
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a60"
+  },
+  "FID": "138",
+  "GID": "103",
+  "CMPTRL_NBR": "73",
+  "CNTY_NM": "Falls",
+  "DPS_NBR": "73",
+  "CNTY_FIPS": "48145",
+  "SHAPE_Length": 1.79785272290479,
+  "SHAPE_Area": 0.189768032630219
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a61"
+  },
+  "FID": "139",
+  "GID": "104",
+  "CMPTRL_NBR": "48",
+  "CNTY_NM": "Concho",
+  "DPS_NBR": "48",
+  "CNTY_FIPS": "48095",
+  "SHAPE_Length": 2.16469365849774,
+  "SHAPE_Area": 0.243756617619836
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a62"
+  },
+  "FID": "140",
+  "GID": "105",
+  "CMPTRL_NBR": "3",
+  "CNTY_NM": "Angelina",
+  "DPS_NBR": "3",
+  "CNTY_FIPS": "48005",
+  "SHAPE_Length": 3.43280001925692,
+  "SHAPE_Area": 0.212057012039018
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a63"
+  },
+  "FID": "141",
+  "GID": "106",
+  "CMPTRL_NBR": "192",
+  "CNTY_NM": "Reagan",
+  "DPS_NBR": "192",
+  "CNTY_FIPS": "48383",
+  "SHAPE_Length": 2.15353561727557,
+  "SHAPE_Area": 0.28872287298991
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a64"
+  },
+  "FID": "142",
+  "GID": "107",
+  "CMPTRL_NBR": "231",
+  "CNTY_NM": "Upton",
+  "DPS_NBR": "231",
+  "CNTY_FIPS": "48461",
+  "SHAPE_Length": 2.20715177127832,
+  "SHAPE_Area": 0.305162578737958
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a65"
+  },
+  "FID": "143",
+  "GID": "108",
+  "CMPTRL_NBR": "113",
+  "CNTY_NM": "Houston",
+  "DPS_NBR": "113",
+  "CNTY_FIPS": "48225",
+  "SHAPE_Length": 3.17782161728144,
+  "SHAPE_Area": 0.303655294046522
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a66"
+  },
+  "FID": "144",
+  "GID": "109",
+  "CMPTRL_NBR": "52",
+  "CNTY_NM": "Crane",
+  "DPS_NBR": "52",
+  "CNTY_FIPS": "48103",
+  "SHAPE_Length": 2.39767442274305,
+  "SHAPE_Area": 0.192992632900707
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a67"
+  },
+  "FID": "145",
+  "GID": "110",
+  "CMPTRL_NBR": "238",
+  "CNTY_NM": "Ward",
+  "DPS_NBR": "238",
+  "CNTY_FIPS": "48475",
+  "SHAPE_Length": 2.93956585840182,
+  "SHAPE_Area": 0.205498632329083
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a68"
+  },
+  "FID": "146",
+  "GID": "111",
+  "CMPTRL_NBR": "226",
+  "CNTY_NM": "Tom Green",
+  "DPS_NBR": "226",
+  "CNTY_FIPS": "48451",
+  "SHAPE_Length": 3.51353221031376,
+  "SHAPE_Area": 0.378383193552777
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a69"
+  },
+  "FID": "147",
+  "GID": "112",
+  "CMPTRL_NBR": "145",
+  "CNTY_NM": "Leon",
+  "DPS_NBR": "145",
+  "CNTY_FIPS": "48289",
+  "SHAPE_Length": 2.9234476034939,
+  "SHAPE_Area": 0.265163163496391
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a6a"
+  },
+  "FID": "148",
+  "GID": "113",
+  "CMPTRL_NBR": "50",
+  "CNTY_NM": "Coryell",
+  "DPS_NBR": "50",
+  "CNTY_FIPS": "48099",
+  "SHAPE_Length": 2.05310874156504,
+  "SHAPE_Area": 0.259511663479869
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a6b"
+  },
+  "FID": "149",
+  "GID": "114",
+  "CMPTRL_NBR": "167",
+  "CNTY_NM": "Mills",
+  "DPS_NBR": "167",
+  "CNTY_FIPS": "48333",
+  "SHAPE_Length": 2.43854835369075,
+  "SHAPE_Area": 0.184389414947904
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a6c"
+  },
+  "FID": "150",
+  "GID": "115",
+  "CMPTRL_NBR": "202",
+  "CNTY_NM": "Sabine",
+  "DPS_NBR": "202",
+  "CNTY_FIPS": "48403",
+  "SHAPE_Length": 2.03339986029751,
+  "SHAPE_Area": 0.141502582158492
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a6d"
+  },
+  "FID": "151",
+  "GID": "116",
+  "CMPTRL_NBR": "203",
+  "CNTY_NM": "San Augustine",
+  "DPS_NBR": "203",
+  "CNTY_FIPS": "48405",
+  "SHAPE_Length": 2.59383482965829,
+  "SHAPE_Area": 0.145542650090903
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a6e"
+  },
+  "FID": "152",
+  "GID": "117",
+  "CMPTRL_NBR": "147",
+  "CNTY_NM": "Limestone",
+  "DPS_NBR": "147",
+  "CNTY_FIPS": "48293",
+  "SHAPE_Length": 1.94249927717799,
+  "SHAPE_Area": 0.229530827519975
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a6f"
+  },
+  "FID": "153",
+  "GID": "118",
+  "CMPTRL_NBR": "161",
+  "CNTY_NM": "McLennan",
+  "DPS_NBR": "155",
+  "CNTY_FIPS": "48309",
+  "SHAPE_Length": 2.08849456272109,
+  "SHAPE_Area": 0.260991759594054
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a70"
+  },
+  "FID": "154",
+  "GID": "119",
+  "CMPTRL_NBR": "174",
+  "CNTY_NM": "Nacogdoches",
+  "DPS_NBR": "174",
+  "CNTY_FIPS": "48347",
+  "SHAPE_Length": 4.07839831484258,
+  "SHAPE_Area": 0.241586881684615
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a71"
+  },
+  "FID": "155",
+  "GID": "120",
+  "CMPTRL_NBR": "97",
+  "CNTY_NM": "Hamilton",
+  "DPS_NBR": "97",
+  "CNTY_FIPS": "48193",
+  "SHAPE_Length": 1.98043134834505,
+  "SHAPE_Area": 0.206040289689687
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a72"
+  },
+  "FID": "156",
+  "GID": "121",
+  "CMPTRL_NBR": "151",
+  "CNTY_NM": "Loving",
+  "DPS_NBR": "151",
+  "CNTY_FIPS": "48301",
+  "SHAPE_Length": 2.14468388699178,
+  "SHAPE_Area": 0.166916194016313
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a73"
+  },
+  "FID": "157",
+  "GID": "122",
+  "CMPTRL_NBR": "195",
+  "CNTY_NM": "Reeves",
+  "DPS_NBR": "195",
+  "CNTY_FIPS": "48389",
+  "SHAPE_Length": 4.57401910225871,
+  "SHAPE_Area": 0.64879627189997
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a74"
+  },
+  "FID": "158",
+  "GID": "123",
+  "CMPTRL_NBR": "81",
+  "CNTY_NM": "Freestone",
+  "DPS_NBR": "81",
+  "CNTY_FIPS": "48161",
+  "SHAPE_Length": 2.49775824810336,
+  "SHAPE_Area": 0.219827333555147
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a75"
+  },
+  "FID": "159",
+  "GID": "124",
+  "CMPTRL_NBR": "42",
+  "CNTY_NM": "Coleman",
+  "DPS_NBR": "42",
+  "CNTY_FIPS": "48083",
+  "SHAPE_Length": 2.67564162184657,
+  "SHAPE_Area": 0.316062150931046
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a76"
+  },
+  "FID": "160",
+  "GID": "125",
+  "CMPTRL_NBR": "200",
+  "CNTY_NM": "Runnels",
+  "DPS_NBR": "200",
+  "CNTY_FIPS": "48399",
+  "SHAPE_Length": 2.04058653472192,
+  "SHAPE_Area": 0.260769740444536
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a77"
+  },
+  "FID": "161",
+  "GID": "126",
+  "CMPTRL_NBR": "25",
+  "CNTY_NM": "Brown",
+  "DPS_NBR": "25",
+  "CNTY_FIPS": "48049",
+  "SHAPE_Length": 2.08217372069196,
+  "SHAPE_Area": 0.236004025636815
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a78"
+  },
+  "FID": "162",
+  "GID": "127",
+  "CMPTRL_NBR": "41",
+  "CNTY_NM": "Coke",
+  "DPS_NBR": "41",
+  "CNTY_FIPS": "48081",
+  "SHAPE_Length": 1.95764952019014,
+  "SHAPE_Area": 0.229087677031567
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a79"
+  },
+  "FID": "163",
+  "GID": "128",
+  "CMPTRL_NBR": "55",
+  "CNTY_NM": "Culberson",
+  "DPS_NBR": "55",
+  "CNTY_FIPS": "48109",
+  "SHAPE_Length": 4.08085111464245,
+  "SHAPE_Area": 0.937433202098301
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a7a"
+  },
+  "FID": "164",
+  "GID": "129",
+  "CMPTRL_NBR": "216",
+  "CNTY_NM": "Sterling",
+  "DPS_NBR": "216",
+  "CNTY_FIPS": "48431",
+  "SHAPE_Length": 1.94680766758774,
+  "SHAPE_Area": 0.227750366426547
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a7b"
+  },
+  "FID": "165",
+  "GID": "130",
+  "CMPTRL_NBR": "87",
+  "CNTY_NM": "Glasscock",
+  "DPS_NBR": "87",
+  "CNTY_FIPS": "48173",
+  "SHAPE_Length": 1.89244476633669,
+  "SHAPE_Area": 0.222376634671495
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a7c"
+  },
+  "FID": "166",
+  "GID": "131",
+  "CMPTRL_NBR": "165",
+  "CNTY_NM": "Midland",
+  "DPS_NBR": "165",
+  "CNTY_FIPS": "48329",
+  "SHAPE_Length": 1.8938988897853,
+  "SHAPE_Area": 0.222664973536801
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a7d"
+  },
+  "FID": "167",
+  "GID": "132",
+  "CMPTRL_NBR": "68",
+  "CNTY_NM": "Ector",
+  "DPS_NBR": "68",
+  "CNTY_FIPS": "48135",
+  "SHAPE_Length": 1.89477237133466,
+  "SHAPE_Area": 0.222982335950246
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a7e"
+  },
+  "FID": "168",
+  "GID": "133",
+  "CMPTRL_NBR": "210",
+  "CNTY_NM": "Shelby",
+  "DPS_NBR": "210",
+  "CNTY_FIPS": "48419",
+  "SHAPE_Length": 2.67879045111403,
+  "SHAPE_Area": 0.205815863592191
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a7f"
+  },
+  "FID": "169",
+  "GID": "134",
+  "CMPTRL_NBR": "248",
+  "CNTY_NM": "Winkler",
+  "DPS_NBR": "248",
+  "CNTY_FIPS": "48495",
+  "SHAPE_Length": 1.92801961615468,
+  "SHAPE_Area": 0.207372278793119
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a80"
+  },
+  "FID": "170",
+  "GID": "176",
+  "CMPTRL_NBR": "220",
+  "CNTY_NM": "Tarrant",
+  "DPS_NBR": "220",
+  "CNTY_FIPS": "48439",
+  "SHAPE_Length": 1.9057405858334,
+  "SHAPE_Area": 0.225294270211723
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a81"
+  },
+  "FID": "171",
+  "GID": "177",
+  "CMPTRL_NBR": "57",
+  "CNTY_NM": "Dallas",
+  "DPS_NBR": "57",
+  "CNTY_FIPS": "48113",
+  "SHAPE_Length": 1.90778204478623,
+  "SHAPE_Area": 0.226420717486537
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a82"
+  },
+  "FID": "172",
+  "GID": "207",
+  "CMPTRL_NBR": "54",
+  "CNTY_NM": "Crosby",
+  "DPS_NBR": "54",
+  "CNTY_FIPS": "48107",
+  "SHAPE_Length": 1.91322074309221,
+  "SHAPE_Area": 0.226907102847745
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a83"
+  },
+  "FID": "173",
+  "GID": "208",
+  "CMPTRL_NBR": "152",
+  "CNTY_NM": "Lubbock",
+  "DPS_NBR": "152",
+  "CNTY_FIPS": "48303",
+  "SHAPE_Length": 1.91273939409851,
+  "SHAPE_Area": 0.226605649633695
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a84"
+  },
+  "FID": "174",
+  "GID": "209",
+  "CMPTRL_NBR": "5",
+  "CNTY_NM": "Archer",
+  "DPS_NBR": "5",
+  "CNTY_FIPS": "48009",
+  "SHAPE_Length": 1.94122063914376,
+  "SHAPE_Area": 0.232834541842828
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a85"
+  },
+  "FID": "175",
+  "GID": "210",
+  "CMPTRL_NBR": "110",
+  "CNTY_NM": "Hockley",
+  "DPS_NBR": "110",
+  "CNTY_FIPS": "48219",
+  "SHAPE_Length": 1.92212433514574,
+  "SHAPE_Area": 0.228718586592223
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a86"
+  },
+  "FID": "176",
+  "GID": "211",
+  "CMPTRL_NBR": "40",
+  "CNTY_NM": "Cochran",
+  "DPS_NBR": "40",
+  "CNTY_FIPS": "48079",
+  "SHAPE_Length": 1.7682541079904,
+  "SHAPE_Area": 0.195133568572076
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a87"
+  },
+  "FID": "177",
+  "GID": "212",
+  "CMPTRL_NBR": "74",
+  "CNTY_NM": "Fannin",
+  "DPS_NBR": "74",
+  "CNTY_FIPS": "48147",
+  "SHAPE_Length": 2.26662346184314,
+  "SHAPE_Area": 0.226256895722053
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a88"
+  },
+  "FID": "178",
+  "GID": "213",
+  "CMPTRL_NBR": "49",
+  "CNTY_NM": "Cooke",
+  "DPS_NBR": "49",
+  "CNTY_FIPS": "48097",
+  "SHAPE_Length": 2.83273278577767,
+  "SHAPE_Area": 0.225401556135767
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a89"
+  },
+  "FID": "179",
+  "GID": "214",
+  "CMPTRL_NBR": "91",
+  "CNTY_NM": "Grayson",
+  "DPS_NBR": "91",
+  "CNTY_FIPS": "48181",
+  "SHAPE_Length": 2.36560021507894,
+  "SHAPE_Area": 0.246442501660712
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a8a"
+  },
+  "FID": "180",
+  "GID": "215",
+  "CMPTRL_NBR": "169",
+  "CNTY_NM": "Montague",
+  "DPS_NBR": "169",
+  "CNTY_FIPS": "48337",
+  "SHAPE_Length": 2.09026649269733,
+  "SHAPE_Area": 0.235632703344818
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a8b"
+  },
+  "FID": "181",
+  "GID": "216",
+  "CMPTRL_NBR": "139",
+  "CNTY_NM": "Lamar",
+  "DPS_NBR": "139",
+  "CNTY_FIPS": "48277",
+  "SHAPE_Length": 2.71647071473904,
+  "SHAPE_Area": 0.235193783769116
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a8c"
+  },
+  "FID": "182",
+  "GID": "217",
+  "CMPTRL_NBR": "194",
+  "CNTY_NM": "Red River",
+  "DPS_NBR": "194",
+  "CNTY_FIPS": "48387",
+  "SHAPE_Length": 3.52813333328637,
+  "SHAPE_Area": 0.266174236332679
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a8d"
+  },
+  "FID": "183",
+  "GID": "218",
+  "CMPTRL_NBR": "39",
+  "CNTY_NM": "Clay",
+  "DPS_NBR": "39",
+  "CNTY_FIPS": "48077",
+  "SHAPE_Length": 2.38209540501595,
+  "SHAPE_Area": 0.279980166127101
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a8e"
+  },
+  "FID": "184",
+  "GID": "219",
+  "CMPTRL_NBR": "243",
+  "CNTY_NM": "Wichita",
+  "DPS_NBR": "243",
+  "CNTY_FIPS": "48485",
+  "SHAPE_Length": 1.8331773700488,
+  "SHAPE_Area": 0.156295200596571
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a8f"
+  },
+  "FID": "185",
+  "GID": "220",
+  "CMPTRL_NBR": "78",
+  "CNTY_NM": "Foard",
+  "DPS_NBR": "78",
+  "CNTY_FIPS": "48155",
+  "SHAPE_Length": 2.30271173140565,
+  "SHAPE_Area": 0.177999148512234
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a90"
+  },
+  "FID": "186",
+  "GID": "221",
+  "CMPTRL_NBR": "51",
+  "CNTY_NM": "Cottle",
+  "DPS_NBR": "51",
+  "CNTY_FIPS": "48101",
+  "SHAPE_Length": 2.02126038980394,
+  "SHAPE_Area": 0.228012424550234
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a91"
+  },
+  "FID": "187",
+  "GID": "222",
+  "CMPTRL_NBR": "173",
+  "CNTY_NM": "Motley",
+  "DPS_NBR": "173",
+  "CNTY_FIPS": "48345",
+  "SHAPE_Length": 2.00371721557245,
+  "SHAPE_Area": 0.250394167531895
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a92"
+  },
+  "FID": "188",
+  "GID": "223",
+  "CMPTRL_NBR": "77",
+  "CNTY_NM": "Floyd",
+  "DPS_NBR": "77",
+  "CNTY_FIPS": "48153",
+  "SHAPE_Length": 2.0068946124229,
+  "SHAPE_Area": 0.251107369593695
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a93"
+  },
+  "FID": "189",
+  "GID": "224",
+  "CMPTRL_NBR": "95",
+  "CNTY_NM": "Hale",
+  "DPS_NBR": "95",
+  "CNTY_FIPS": "48189",
+  "SHAPE_Length": 2.01835826501623,
+  "SHAPE_Area": 0.254141686576041
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a94"
+  },
+  "FID": "190",
+  "GID": "178",
+  "CMPTRL_NBR": "199",
+  "CNTY_NM": "Rockwall",
+  "DPS_NBR": "199",
+  "CNTY_FIPS": "48397",
+  "SHAPE_Length": 0.777033988578955,
+  "SHAPE_Area": 0.037090174895785
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a95"
+  },
+  "FID": "191",
+  "GID": "179",
+  "CMPTRL_NBR": "190",
+  "CNTY_NM": "Rains",
+  "DPS_NBR": "190",
+  "CNTY_FIPS": "48379",
+  "SHAPE_Length": 1.33604467632186,
+  "SHAPE_Area": 0.0644297443719092
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a96"
+  },
+  "FID": "192",
+  "GID": "180",
+  "CMPTRL_NBR": "250",
+  "CNTY_NM": "Wood",
+  "DPS_NBR": "250",
+  "CNTY_FIPS": "48499",
+  "SHAPE_Length": 2.18160161067978,
+  "SHAPE_Area": 0.173379867425507
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a97"
+  },
+  "FID": "193",
+  "GID": "181",
+  "CMPTRL_NBR": "32",
+  "CNTY_NM": "Camp",
+  "DPS_NBR": "32",
+  "CNTY_FIPS": "48063",
+  "SHAPE_Length": 1.42638404100639,
+  "SHAPE_Area": 0.0507991557855514
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a98"
+  },
+  "FID": "194",
+  "GID": "182",
+  "CMPTRL_NBR": "217",
+  "CNTY_NM": "Stonewall",
+  "DPS_NBR": "217",
+  "CNTY_FIPS": "48433",
+  "SHAPE_Length": 1.94359541973119,
+  "SHAPE_Area": 0.232001068691366
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a99"
+  },
+  "FID": "195",
+  "GID": "183",
+  "CMPTRL_NBR": "104",
+  "CNTY_NM": "Haskell",
+  "DPS_NBR": "104",
+  "CNTY_FIPS": "48207",
+  "SHAPE_Length": 1.91739095591401,
+  "SHAPE_Area": 0.227925262117152
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a9a"
+  },
+  "FID": "196",
+  "GID": "184",
+  "CMPTRL_NBR": "132",
+  "CNTY_NM": "Kent",
+  "DPS_NBR": "132",
+  "CNTY_FIPS": "48263",
+  "SHAPE_Length": 1.89953893407078,
+  "SHAPE_Area": 0.223632390784565
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a9b"
+  },
+  "FID": "197",
+  "GID": "185",
+  "CMPTRL_NBR": "224",
+  "CNTY_NM": "Throckmorton",
+  "DPS_NBR": "224",
+  "CNTY_FIPS": "48447",
+  "SHAPE_Length": 1.92184490285183,
+  "SHAPE_Area": 0.229200399002043
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a9c"
+  },
+  "FID": "198",
+  "GID": "186",
+  "CMPTRL_NBR": "85",
+  "CNTY_NM": "Garza",
+  "DPS_NBR": "85",
+  "CNTY_FIPS": "48169",
+  "SHAPE_Length": 1.89832313911802,
+  "SHAPE_Area": 0.224420637866505
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a9d"
+  },
+  "FID": "199",
+  "GID": "187",
+  "CMPTRL_NBR": "153",
+  "CNTY_NM": "Lynn",
+  "DPS_NBR": "153",
+  "CNTY_FIPS": "48305",
+  "SHAPE_Length": 1.90023402007228,
+  "SHAPE_Area": 0.223592857123533
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a9e"
+  },
+  "FID": "200",
+  "GID": "188",
+  "CMPTRL_NBR": "252",
+  "CNTY_NM": "Young",
+  "DPS_NBR": "252",
+  "CNTY_FIPS": "48503",
+  "SHAPE_Length": 1.94165106537872,
+  "SHAPE_Area": 0.233021766385438
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71a9f"
+  },
+  "FID": "201",
+  "GID": "189",
+  "CMPTRL_NBR": "223",
+  "CNTY_NM": "Terry",
+  "DPS_NBR": "223",
+  "CNTY_FIPS": "48445",
+  "SHAPE_Length": 1.89668772053815,
+  "SHAPE_Area": 0.22297788509718
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71aa0"
+  },
+  "FID": "202",
+  "GID": "190",
+  "CMPTRL_NBR": "251",
+  "CNTY_NM": "Yoakum",
+  "DPS_NBR": "251",
+  "CNTY_FIPS": "48501",
+  "SHAPE_Length": 1.79157767497153,
+  "SHAPE_Area": 0.200359847815264
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71aa1"
+  },
+  "FID": "203",
+  "GID": "191",
+  "CMPTRL_NBR": "34",
+  "CNTY_NM": "Cass",
+  "DPS_NBR": "34",
+  "CNTY_FIPS": "48067",
+  "SHAPE_Length": 2.72963094115476,
+  "SHAPE_Area": 0.240082558065208
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71aa2"
+  },
+  "FID": "204",
+  "GID": "192",
+  "CMPTRL_NBR": "43",
+  "CNTY_NM": "Collin",
+  "DPS_NBR": "43",
+  "CNTY_FIPS": "48085",
+  "SHAPE_Length": 1.9312167645958,
+  "SHAPE_Area": 0.221921838908805
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71aa3"
+  },
+  "FID": "205",
+  "GID": "193",
+  "CMPTRL_NBR": "61",
+  "CNTY_NM": "Denton",
+  "DPS_NBR": "61",
+  "CNTY_FIPS": "48121",
+  "SHAPE_Length": 1.96932440284573,
+  "SHAPE_Area": 0.23835953914431
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71aa4"
+  },
+  "FID": "206",
+  "GID": "194",
+  "CMPTRL_NBR": "249",
+  "CNTY_NM": "Wise",
+  "DPS_NBR": "249",
+  "CNTY_FIPS": "48497",
+  "SHAPE_Length": 1.93265151676698,
+  "SHAPE_Area": 0.231119047585046
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71aa5"
+  },
+  "FID": "207",
+  "GID": "195",
+  "CMPTRL_NBR": "112",
+  "CNTY_NM": "Hopkins",
+  "DPS_NBR": "112",
+  "CNTY_FIPS": "48223",
+  "SHAPE_Length": 2.29494143333942,
+  "SHAPE_Area": 0.198586746390042
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71aa6"
+  },
+  "FID": "208",
+  "GID": "196",
+  "CMPTRL_NBR": "172",
+  "CNTY_NM": "Morris",
+  "DPS_NBR": "172",
+  "CNTY_FIPS": "48343",
+  "SHAPE_Length": 1.53869847366011,
+  "SHAPE_Area": 0.0644955119674162
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71aa7"
+  },
+  "FID": "209",
+  "GID": "197",
+  "CMPTRL_NBR": "116",
+  "CNTY_NM": "Hunt",
+  "DPS_NBR": "116",
+  "CNTY_FIPS": "48231",
+  "SHAPE_Length": 2.04572034893498,
+  "SHAPE_Area": 0.220775791115202
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71aa8"
+  },
+  "FID": "210",
+  "GID": "198",
+  "CMPTRL_NBR": "80",
+  "CNTY_NM": "Franklin",
+  "DPS_NBR": "80",
+  "CNTY_FIPS": "48159",
+  "SHAPE_Length": 1.42205469766604,
+  "SHAPE_Area": 0.073838547608497
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71aa9"
+  },
+  "FID": "211",
+  "GID": "199",
+  "CMPTRL_NBR": "119",
+  "CNTY_NM": "Jack",
+  "DPS_NBR": "119",
+  "CNTY_FIPS": "48237",
+  "SHAPE_Length": 1.93422188407688,
+  "SHAPE_Area": 0.230607103362793
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71aaa"
+  },
+  "FID": "212",
+  "GID": "200",
+  "CMPTRL_NBR": "225",
+  "CNTY_NM": "Titus",
+  "DPS_NBR": "225",
+  "CNTY_FIPS": "48449",
+  "SHAPE_Length": 2.00308107791878,
+  "SHAPE_Area": 0.10691441947755
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71aab"
+  },
+  "FID": "213",
+  "GID": "201",
+  "CMPTRL_NBR": "60",
+  "CNTY_NM": "Delta",
+  "DPS_NBR": "60",
+  "CNTY_FIPS": "48119",
+  "SHAPE_Length": 2.32114228525783,
+  "SHAPE_Area": 0.0697547616667509
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71aac"
+  },
+  "FID": "214",
+  "GID": "202",
+  "CMPTRL_NBR": "19",
+  "CNTY_NM": "Bowie",
+  "DPS_NBR": "19",
+  "CNTY_FIPS": "48037",
+  "SHAPE_Length": 4.05705376785572,
+  "SHAPE_Area": 0.231733544171042
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71aad"
+  },
+  "FID": "215",
+  "GID": "203",
+  "CMPTRL_NBR": "138",
+  "CNTY_NM": "Knox",
+  "DPS_NBR": "138",
+  "CNTY_FIPS": "48275",
+  "SHAPE_Length": 2.13352912296058,
+  "SHAPE_Area": 0.215261988349645
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71aae"
+  },
+  "FID": "216",
+  "GID": "204",
+  "CMPTRL_NBR": "135",
+  "CNTY_NM": "King",
+  "DPS_NBR": "135",
+  "CNTY_FIPS": "48269",
+  "SHAPE_Length": 1.92829698064682,
+  "SHAPE_Area": 0.229953040580481
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71aaf"
+  },
+  "FID": "217",
+  "GID": "205",
+  "CMPTRL_NBR": "63",
+  "CNTY_NM": "Dickens",
+  "DPS_NBR": "63",
+  "CNTY_FIPS": "48125",
+  "SHAPE_Length": 1.92069188021048,
+  "SHAPE_Area": 0.227699878764289
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71ab0"
+  },
+  "FID": "218",
+  "GID": "206",
+  "CMPTRL_NBR": "12",
+  "CNTY_NM": "Baylor",
+  "DPS_NBR": "12",
+  "CNTY_FIPS": "48023",
+  "SHAPE_Length": 1.91245792047101,
+  "SHAPE_Area": 0.226681328706822
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71ab1"
+  },
+  "FID": "219",
+  "GID": "170",
+  "CMPTRL_NBR": "58",
+  "CNTY_NM": "Dawson",
+  "DPS_NBR": "58",
+  "CNTY_FIPS": "48115",
+  "SHAPE_Length": 1.90370766199618,
+  "SHAPE_Area": 0.224777361448477
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71ab2"
+  },
+  "FID": "220",
+  "GID": "171",
+  "CMPTRL_NBR": "83",
+  "CNTY_NM": "Gaines",
+  "DPS_NBR": "83",
+  "CNTY_FIPS": "48165",
+  "SHAPE_Length": 2.59041958828135,
+  "SHAPE_Area": 0.374514866542119
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71ab3"
+  },
+  "FID": "221",
+  "GID": "172",
+  "CMPTRL_NBR": "230",
+  "CNTY_NM": "Upshur",
+  "DPS_NBR": "230",
+  "CNTY_FIPS": "48459",
+  "SHAPE_Length": 1.79982327225165,
+  "SHAPE_Area": 0.147655520628713
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71ab4"
+  },
+  "FID": "222",
+  "GID": "173",
+  "CMPTRL_NBR": "155",
+  "CNTY_NM": "Marion",
+  "DPS_NBR": "158",
+  "CNTY_FIPS": "48315",
+  "SHAPE_Length": 2.03368600438948,
+  "SHAPE_Area": 0.104798970686794
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71ab5"
+  },
+  "FID": "223",
+  "GID": "174",
+  "CMPTRL_NBR": "182",
+  "CNTY_NM": "Palo Pinto",
+  "DPS_NBR": "182",
+  "CNTY_FIPS": "48363",
+  "SHAPE_Length": 2.01489695058199,
+  "SHAPE_Area": 0.245592253333451
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71ab6"
+  },
+  "FID": "224",
+  "GID": "175",
+  "CMPTRL_NBR": "184",
+  "CNTY_NM": "Parker",
+  "DPS_NBR": "184",
+  "CNTY_FIPS": "48367",
+  "SHAPE_Length": 1.91049081462186,
+  "SHAPE_Area": 0.225917425717781
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71ab7"
+  },
+  "FID": "225",
+  "GID": "238",
+  "CMPTRL_NBR": "191",
+  "CNTY_NM": "Randall",
+  "DPS_NBR": "191",
+  "CNTY_FIPS": "48381",
+  "SHAPE_Length": 1.95736522919354,
+  "SHAPE_Area": 0.235811564373686
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71ab8"
+  },
+  "FID": "226",
+  "GID": "239",
+  "CMPTRL_NBR": "59",
+  "CNTY_NM": "Deaf Smith",
+  "DPS_NBR": "59",
+  "CNTY_FIPS": "48117",
+  "SHAPE_Length": 2.62224617435931,
+  "SHAPE_Area": 0.382874942535471
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71ab9"
+  },
+  "FID": "227",
+  "GID": "240",
+  "CMPTRL_NBR": "242",
+  "CNTY_NM": "Wheeler",
+  "DPS_NBR": "242",
+  "CNTY_FIPS": "48483",
+  "SHAPE_Length": 1.95125205505299,
+  "SHAPE_Area": 0.235165913817228
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71aba"
+  },
+  "FID": "228",
+  "GID": "241",
+  "CMPTRL_NBR": "90",
+  "CNTY_NM": "Gray",
+  "DPS_NBR": "90",
+  "CNTY_FIPS": "48179",
+  "SHAPE_Length": 1.96833268317082,
+  "SHAPE_Area": 0.238979411170009
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71abb"
+  },
+  "FID": "229",
+  "GID": "242",
+  "CMPTRL_NBR": "33",
+  "CNTY_NM": "Carson",
+  "DPS_NBR": "33",
+  "CNTY_FIPS": "48065",
+  "SHAPE_Length": 1.95761139040279,
+  "SHAPE_Area": 0.237516649595125
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71abc"
+  },
+  "FID": "230",
+  "GID": "243",
+  "CMPTRL_NBR": "188",
+  "CNTY_NM": "Potter",
+  "DPS_NBR": "188",
+  "CNTY_FIPS": "48375",
+  "SHAPE_Length": 1.95892017054727,
+  "SHAPE_Area": 0.236917402816426
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71abd"
+  },
+  "FID": "231",
+  "GID": "244",
+  "CMPTRL_NBR": "180",
+  "CNTY_NM": "Oldham",
+  "DPS_NBR": "180",
+  "CNTY_FIPS": "48359",
+  "SHAPE_Length": 2.63866437570127,
+  "SHAPE_Area": 0.385883124698741
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71abe"
+  },
+  "FID": "232",
+  "GID": "245",
+  "CMPTRL_NBR": "106",
+  "CNTY_NM": "Hemphill",
+  "DPS_NBR": "106",
+  "CNTY_FIPS": "48211",
+  "SHAPE_Length": 1.95245467766932,
+  "SHAPE_Area": 0.235628982632968
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71abf"
+  },
+  "FID": "233",
+  "GID": "246",
+  "CMPTRL_NBR": "197",
+  "CNTY_NM": "Roberts",
+  "DPS_NBR": "197",
+  "CNTY_FIPS": "48393",
+  "SHAPE_Length": 1.96500226813975,
+  "SHAPE_Area": 0.238522573039428
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71ac0"
+  },
+  "FID": "234",
+  "GID": "247",
+  "CMPTRL_NBR": "117",
+  "CNTY_NM": "Hutchinson",
+  "DPS_NBR": "117",
+  "CNTY_FIPS": "48233",
+  "SHAPE_Length": 1.93562611030691,
+  "SHAPE_Area": 0.231227201257912
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71ac1"
+  },
+  "FID": "235",
+  "GID": "225",
+  "CMPTRL_NBR": "140",
+  "CNTY_NM": "Lamb",
+  "DPS_NBR": "140",
+  "CNTY_FIPS": "48279",
+  "SHAPE_Length": 2.03117533980129,
+  "SHAPE_Area": 0.257464755060991
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71ac2"
+  },
+  "FID": "236",
+  "GID": "226",
+  "CMPTRL_NBR": "9",
+  "CNTY_NM": "Bailey",
+  "DPS_NBR": "9",
+  "CNTY_FIPS": "48017",
+  "SHAPE_Length": 1.83628309345486,
+  "SHAPE_Area": 0.209332577190405
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71ac3"
+  },
+  "FID": "237",
+  "GID": "227",
+  "CMPTRL_NBR": "244",
+  "CNTY_NM": "Wilbarger",
+  "DPS_NBR": "244",
+  "CNTY_FIPS": "48487",
+  "SHAPE_Length": 2.49932718929811,
+  "SHAPE_Area": 0.247248712635451
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71ac4"
+  },
+  "FID": "238",
+  "GID": "228",
+  "CMPTRL_NBR": "99",
+  "CNTY_NM": "Hardeman",
+  "DPS_NBR": "99",
+  "CNTY_FIPS": "48197",
+  "SHAPE_Length": 1.90472943678756,
+  "SHAPE_Area": 0.176644163868269
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71ac5"
+  },
+  "FID": "239",
+  "GID": "229",
+  "CMPTRL_NBR": "38",
+  "CNTY_NM": "Childress",
+  "DPS_NBR": "38",
+  "CNTY_FIPS": "48075",
+  "SHAPE_Length": 1.70857444540249,
+  "SHAPE_Area": 0.181527865768357
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71ac6"
+  },
+  "FID": "240",
+  "GID": "230",
+  "CMPTRL_NBR": "96",
+  "CNTY_NM": "Hall",
+  "DPS_NBR": "96",
+  "CNTY_FIPS": "48191",
+  "SHAPE_Length": 1.9271485134005,
+  "SHAPE_Area": 0.229964489915002
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71ac7"
+  },
+  "FID": "241",
+  "GID": "231",
+  "CMPTRL_NBR": "23",
+  "CNTY_NM": "Briscoe",
+  "DPS_NBR": "23",
+  "CNTY_FIPS": "48045",
+  "SHAPE_Length": 1.92390559809579,
+  "SHAPE_Area": 0.229466116398576
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71ac8"
+  },
+  "FID": "242",
+  "GID": "232",
+  "CMPTRL_NBR": "219",
+  "CNTY_NM": "Swisher",
+  "DPS_NBR": "219",
+  "CNTY_FIPS": "48437",
+  "SHAPE_Length": 1.92457742933068,
+  "SHAPE_Area": 0.229375664663403
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71ac9"
+  },
+  "FID": "243",
+  "GID": "233",
+  "CMPTRL_NBR": "35",
+  "CNTY_NM": "Castro",
+  "DPS_NBR": "35",
+  "CNTY_FIPS": "48069",
+  "SHAPE_Length": 1.9239211805809,
+  "SHAPE_Area": 0.228709438190346
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71aca"
+  },
+  "FID": "244",
+  "GID": "234",
+  "CMPTRL_NBR": "185",
+  "CNTY_NM": "Parmer",
+  "DPS_NBR": "185",
+  "CNTY_FIPS": "48369",
+  "SHAPE_Length": 1.90504538106632,
+  "SHAPE_Area": 0.22511909915933
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71acb"
+  },
+  "FID": "245",
+  "GID": "235",
+  "CMPTRL_NBR": "44",
+  "CNTY_NM": "Collingsworth",
+  "DPS_NBR": "44",
+  "CNTY_FIPS": "48087",
+  "SHAPE_Length": 1.94963207074564,
+  "SHAPE_Area": 0.234984183121864
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71acc"
+  },
+  "FID": "246",
+  "GID": "236",
+  "CMPTRL_NBR": "65",
+  "CNTY_NM": "Donley",
+  "DPS_NBR": "65",
+  "CNTY_FIPS": "48129",
+  "SHAPE_Length": 1.96638225265877,
+  "SHAPE_Area": 0.238522225390072
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71acd"
+  },
+  "FID": "247",
+  "GID": "237",
+  "CMPTRL_NBR": "6",
+  "CNTY_NM": "Armstrong",
+  "DPS_NBR": "6",
+  "CNTY_FIPS": "48011",
+  "SHAPE_Length": 1.94568997024616,
+  "SHAPE_Area": 0.233110028751233
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71ace"
+  },
+  "FID": "248",
+  "GID": "250",
+  "CMPTRL_NBR": "148",
+  "CNTY_NM": "Lipscomb",
+  "DPS_NBR": "148",
+  "CNTY_FIPS": "48295",
+  "SHAPE_Length": 1.97980596337273,
+  "SHAPE_Area": 0.242396190524935
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71acf"
+  },
+  "FID": "249",
+  "GID": "251",
+  "CMPTRL_NBR": "179",
+  "CNTY_NM": "Ochiltree",
+  "DPS_NBR": "179",
+  "CNTY_FIPS": "48357",
+  "SHAPE_Length": 1.96732169250461,
+  "SHAPE_Area": 0.23882657896917
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71ad0"
+  },
+  "FID": "250",
+  "GID": "252",
+  "CMPTRL_NBR": "98",
+  "CNTY_NM": "Hansford",
+  "DPS_NBR": "98",
+  "CNTY_FIPS": "48195",
+  "SHAPE_Length": 1.96553904074286,
+  "SHAPE_Area": 0.239189399445609
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71ad1"
+  },
+  "FID": "251",
+  "GID": "253",
+  "CMPTRL_NBR": "211",
+  "CNTY_NM": "Sherman",
+  "DPS_NBR": "211",
+  "CNTY_FIPS": "48421",
+  "SHAPE_Length": 1.96799175319635,
+  "SHAPE_Area": 0.239757131572332
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71ad2"
+  },
+  "FID": "252",
+  "GID": "254",
+  "CMPTRL_NBR": "56",
+  "CNTY_NM": "Dallam",
+  "DPS_NBR": "56",
+  "CNTY_FIPS": "48111",
+  "SHAPE_Length": 2.64774939880016,
+  "SHAPE_Area": 0.391035065442232
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71ad3"
+  },
+  "FID": "253",
+  "GID": "248",
+  "CMPTRL_NBR": "171",
+  "CNTY_NM": "Moore",
+  "DPS_NBR": "171",
+  "CNTY_FIPS": "48341",
+  "SHAPE_Length": 1.94986775104294,
+  "SHAPE_Area": 0.234984170822113
+},{
+  "_id": {
+    "$oid": "618379e5d1d87f2268d71ad4"
+  },
+  "FID": "254",
+  "GID": "249",
+  "CMPTRL_NBR": "103",
+  "CNTY_NM": "Hartley",
+  "DPS_NBR": "103",
+  "CNTY_FIPS": "48205",
+  "SHAPE_Length": 2.61721399595689,
+  "SHAPE_Area": 0.377985129848927
+}]
