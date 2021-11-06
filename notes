@@ -1,0 +1,9 @@
+FRONT END:
+create a new js - make sure you got the scripts tag in your dashboard.html
+    * 1) write codes to get text inputs from start & end date from html
+    * 2) d3 promise >parse the inputs from 1) to '/api/v1.0/blah/<start>/<end>'
+        Ex: 2021-02-15 4:00:00 | 2021-02-15 5:00:00
+        /api/v1.0/blah/2021-02-15 4:00:00/2021-02-15 5:00:00
+    * 3) test with sql conn to heroku
+
+
