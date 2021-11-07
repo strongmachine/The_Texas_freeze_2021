@@ -19,6 +19,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <link rel="apple-touch-icon" sizes="76x76" href="../assets/img/apple-icon.png">
   <link rel="icon" type="image/png" href="../assets/img/favicon.png">
   <title>
@@ -33,6 +34,26 @@
   <link href="../assets/css/black-dashboard.css?v=1.0.0" rel="stylesheet" />
   <!-- CSS Just for demo purpose, don't include it in your project -->
   <link href="../assets/demo/demo.css" rel="stylesheet" />
+  <!-- mapbox CSS -->
+  <script src='https://api.mapbox.com/mapbox-gl-js/v2.3.1/mapbox-gl.js'></script>
+  <link href='https://api.mapbox.com/mapbox-gl-js/v2.3.1/mapbox-gl.css' rel='stylesheet' />
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+    integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+    crossorigin="anonymous">
+    <!-- Our CSS -->
+  <link rel="stylesheet" type="text/css" href="/static/css/style.css">
+  <title>Twitter HashTag Cloud Chart</title>
+  <script src="https://cdn.anychart.com/releases/v8/js/anychart-base.min.js"></script>
+  <script src="https://cdn.anychart.com/releases/v8/js/anychart-tag-cloud.min.js"></script>  
+  <style>
+    html, body, #container {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    }
+  </style>  
 </head>
 
 <body class="">
@@ -43,67 +64,67 @@
     -->
       <div class="sidebar-wrapper">
         <div class="logo">
-          <a href="javascript:void(0)" class="simple-text logo-mini">
-            CT
+          <!-- <a href="javascript:void(0)" class="simple-text logo-mini">
+            CT -->
           </a>
-          <a href="javascript:void(0)" class="simple-text logo-normal">
-            Creative Tim
+          <!-- <a href="javascript:void(0)" class="simple-text logo-normal">
+            Creative Tim -->
           </a>
         </div>
         <ul class="nav">
-          <li>
+          <li class="active ">
             <a href="./dashboard.html">
               <i class="tim-icons icon-chart-pie-36"></i>
-              <p>Dashboard</p>
+              <p>Main</p>
             </a>
           </li>
           <li>
             <a href="./icons.html">
               <i class="tim-icons icon-atom"></i>
-              <p>Icons</p>
-            </a>
-          </li>
-          <li class="active ">
-            <a href="./map.html">
-              <i class="tim-icons icon-pin"></i>
-              <p>Maps</p>
+              <p>Pictures</p>
             </a>
           </li>
           <li>
-            <a href="./notifications.html">
+            <a href="./map.html">
+              <i class="tim-icons icon-pin"></i>
+              <p>OverLook</p>
+            </a>
+          </li>
+          <li>
+            <!-- <a href="./notifications.html">
               <i class="tim-icons icon-bell-55"></i>
               <p>Notifications</p>
-            </a>
+            </a> -->
           </li>
           <li>
             <a href="./user.html">
               <i class="tim-icons icon-single-02"></i>
-              <p>User Profile</p>
+              <p>Developers</p>
             </a>
           </li>
           <li>
             <a href="./tables.html">
               <i class="tim-icons icon-puzzle-10"></i>
-              <p>Table List</p>
+              <p>Works Cited</p>
             </a>
           </li>
           <li>
-            <a href="./typography.html">
+            <!-- <a href="./typography.html">
               <i class="tim-icons icon-align-center"></i>
               <p>Typography</p>
-            </a>
+            </a> -->
           </li>
           <li>
-            <a href="./rtl.html">
+            <!-- <a href="./rtl.html">
               <i class="tim-icons icon-world"></i>
               <p>RTL Support</p>
-            </a>
+            </a> -->
           </li>
           <li class="active-pro">
-            <a href="./upgrade.html">
+            <!-- <a href="./upgrade.html">
               <i class="tim-icons icon-spaceship"></i>
               <p>Upgrade to PRO</p>
-            </a>
+            </a> -->
           </li>
         </ul>
       </div>
@@ -120,7 +141,7 @@
                 <span class="navbar-toggler-bar bar3"></span>
               </button>
             </div>
-            <a class="navbar-brand" href="javascript:void(0)">Maps</a>
+            <a class="navbar-brand" href="javascript:void(0)">#Hastags</a>
           </div>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
             aria-expanded="false" aria-label="Toggle navigation">
@@ -130,20 +151,20 @@
           </button>
           <div class="collapse navbar-collapse" id="navigation">
             <ul class="navbar-nav ml-auto">
-              <li class="search-bar input-group">
-                <button class="btn btn-link" id="search-button" data-toggle="modal" data-target="#searchModal"><i
+              <!-- <li class="search-bar input-group"> -->
+                <!-- <button class="btn btn-link" id="search-button" data-toggle="modal" data-target="#searchModal"><i
                     class="tim-icons icon-zoom-split"></i>
                   <span class="d-lg-none d-md-block">Search</span>
                 </button>
-              </li>
-              <li class="dropdown nav-item">
+              </li> -->
+              <!-- <li class="dropdown nav-item">
                 <a href="javascript:void(0)" class="dropdown-toggle nav-link" data-toggle="dropdown">
-                  <div class="notification d-none d-lg-block d-xl-block"></div>
-                  <i class="tim-icons icon-sound-wave"></i>
-                  <p class="d-lg-none">
+                  <div class="notification d-none d-lg-block d-xl-block"></div> -->
+                  <!-- <i class="tim-icons icon-sound-wave"></i> -->
+                  <!-- <p class="d-lg-none">
                     Notifications
                   </p>
-                </a>
+                </a> -->
                 <ul class="dropdown-menu dropdown-menu-right dropdown-navbar">
                   <li class="nav-link"><a href="#" class="nav-item dropdown-item">Mike John responded to your email</a>
                   </li>
@@ -159,13 +180,13 @@
               <li class="dropdown nav-item">
                 <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown">
                   <div class="photo">
-                    <img src="../assets/img/anime3.png" alt="Profile Photo">
-                  </div>
+                    <!-- <img src="../assets/img/anime3.png" alt="Profile Photo"> -->
+                  <!-- </div>
                   <b class="caret d-none d-lg-block d-xl-block"></b>
                   <p class="d-lg-none">
                     Log out
                   </p>
-                </a>
+                </a> -->
                 <ul class="dropdown-menu dropdown-navbar">
                   <li class="nav-link"><a href="javascript:void(0)" class="nav-item dropdown-item">Profile</a></li>
                   <li class="nav-link"><a href="javascript:void(0)" class="nav-item dropdown-item">Settings</a></li>
@@ -197,14 +218,86 @@
           <div class="col-md-12">
             <div class="card card-plain">
               <div class="card-header">
-                Maps
+
+                
+               OverLook
               </div>
+             
+              </div>
+              <div id="container"></div>
+              <div class="row">
+                <div class="col-md-12"></div>
+                <div class="col-md-12"></div>
+              <script type="text/javascript">
+                anychart.onDocumentReady(function () {
+        
+                    // set the data
+                    var data = [
+                        {"x": "TexasFreeze", "value": 315, category: "Weather"},
+                        {"x": "TexasStrong", "value": 193, category: "Solidarity"},
+                        {"x": "Texas", "value": 204, category: "Solidarity"},
+                        {"x": "TexasWinterStorm2021", "value": 37, category: "Weather"},
+                        {"x": "TexasPowerGrid", "value": 9, category: "Power"},
+                        {"x": "txlege", "value": 32, category: "Politics"},
+                        {"x": "SmartNews", "value": 16, category: "Politics"},
+                        {"x": "TexasWinterStorm", "value": 12, category: "Weather"},
+                        {"x": "TexasBlackout", "value": 48, category: "Power"},
+                        {"x": "texaspowerfail", "value": 10, category: "Power"},
+                        {"x": "AustinPowerOutage", "value": 9, category: "Power"},
+                        {"x": "texas", "value": 8, category: "Solidarity"},
+                        {"x": "StumpARepublican", "value": 6, category: "Politics"},
+                        {"x": "Fraud", "value": 5, category: "Politics"},
+                        {"x": "Rat", "value": 2, category: "Politics"},
+                        {"x": "TedCancunCruz", "value": 3, category: "Politics"},
+                        {"x": "TexasWeather", "value": 8, category: "Weather"},
+                        {"x": "HelpTexas", "value": 9, category: "Solidarity"},
+                        {"x": "texaswinterstorm", "value": 2, category: "Weather"},
+                        {"x": "renewable", "value": 5, category: "Power"},
+                        {"x": "GoldmanSachs", "value": 5, category: "Solidarity"}
+                      ];
+                    
+                      // create a tag cloud chart
+                      var chart = anychart.tagCloud(data);
+                    
+                      // set the chart title
+                      chart.title('Hashtags from Winter Storm Uri')
+                      // set array of angles, by which words will be placed
+                      chart.angles([0])
+                      // enable color range
+                      chart.colorRange(true);
+                      // set color range length
+                      chart.colorRange().length('80%');
+                    
+                      // display chart
+                      chart.container("container");
+                      chart.draw();
+                    });
+            </script>
               <!-- <div class="card-body"> -->
               <!-- <div id="map" class="map"></div> -->
+            
               <div>
                 <img src="/2021-02-19_14-37-28.gif" alt="Texas Freeze" width="500" height="500">
               </div>
-              <a href="https://twitter.com/i/status/1364366650393452544">Twitter/PowerOutage.Us 2021 Texas Winter Storm</a>
+              <a href="https://twitter.com/i/status/1364366650393452544">Twitter/PowerOutage.Us 2021 Texas Winter
+                Storm</a>
+                
+              
+              
+                <!-- The div that holds our map -->
+              <!-- <div id='map' style='width: 1000px; height: 700px;'></div> -->
+                <!-- Leaflet JS -->
+                 <!-- <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+                  integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
+                  crossorigin="anonymous"></script> -->
+                <!-- D3 JavaScript -->
+                 <!-- <script src="https://d3js.org/d3.v5.min.js"></script> -->
+                <!-- API key -->
+                <!-- <script type="text/javascript" src="static/js/config.js"></script> -->
+                <!-- Our JavaScript -->
+                 <!-- <script type="text/javascript" src="/static/js/logic.js"></script>
+              </div> -->
+
 
 
             </div>
@@ -246,7 +339,7 @@
   <div class="fixed-plugin">
     <div class="dropdown show-dropdown">
       <a href="#" data-toggle="dropdown">
-        <i class="fa fa-cog fa-2x"> </i>
+        <!-- <i class="fa fa-cog fa-2x"> </i> -->
       </a>
       <ul class="dropdown-menu">
         <li class="header-title"> Sidebar Background</li>
@@ -292,6 +385,7 @@
   <script src="../assets/js/core/popper.min.js"></script>
   <script src="../assets/js/core/bootstrap.min.js"></script>
   <script src="../assets/js/plugins/perfect-scrollbar.jquery.min.js"></script>
+
   <!--  Google Maps Plugin    -->
   <!-- Place this tag in your head or just before your close body tag. -->
   <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY_HERE"></script>
