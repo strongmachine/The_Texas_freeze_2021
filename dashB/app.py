@@ -10,10 +10,9 @@ import os
 # Flask Setup
 #################################################
 
-dir_path = os.path.dirname(os.path.realpath(__file__))
 
 
-app = Flask(__name__, root_path=dir_path)
+app = Flask(__name__, template_folder='./templates', static_folder="./assets")
 
 
 # establish the conn to sql on heroku
@@ -59,14 +58,38 @@ def justice_league(year,month,day,hour,minute):
     return jsonify(dict_news)
 
 
-# create route that renders index.html template
+# create route that renders dashboard.html template
 @app.route("/")
 def home():
     
-    
-    
+     return render_template("dashboard.html")
 
-    return render_template("dashboard.html")
+
+@app.route("/icons/")
+def icons():
+    
+    return render_template("icons.html")
+
+
+
+@app.route("/map/")
+def map():
+    
+    return render_template("map.html")
+
+
+@app.route("/tables/")
+def tables():
+    
+    return render_template("tables.html")
+
+
+@app.route("/user/")
+def user():
+    
+    return render_template("user.html")
+
+
 
 
 # @app.route("/api/v1.0/freeze/<starttime>/<endtime>")
