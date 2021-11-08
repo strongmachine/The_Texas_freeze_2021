@@ -1,7 +1,7 @@
 from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
 from sqlalchemy import create_engine, func, inspect
-from flask import Flask, jsonify
+from flask import Flask, jsonify, render_template, request, redirect
 import datetime as datetime
 
 
@@ -35,32 +35,34 @@ Base.prepare(engine, reflect=True)
 # Flask Routes
 #################################################
 
-@app.route("/api/v1.0/news/<timestamp>")
-def justice_league():
+@app.route("/api/v1.0/news/<year>/<month>/<day>/<hour>/<minute>")
+# example route /api/v1.0/news/2021/2/20/11/16
+def justice_league(year,month,day,hour,minute):
     """Return the justice league data as json"""
     session = Session(engine)
     newsitems = Base.classes.news_items
-    time1=datetime.datetime(2021, 2, 20, 11, 16) - datetime.timedelta(hours=10)
-    time2=datetime.datetime(2021, 2, 20, 11, 16)
+    time2=datetime.datetime(int(year), int(month), int(day), int(hour), int(minute)) 
+    time1=time2- datetime.timedelta(hours=5)
     news_for_hour=session.query(newsitems.timestamp, newsitems.newstext, newsitems.link).\
         filter(newsitems.timestamp > time1).filter(newsitems.timestamp < time2)
-    dict_news = {"timestamp":[],"newstext":[],"link":[]}
+    dict_news=[]
     for news in news_for_hour:
-        dict_news["timestamp"].append(news.timestamp.strftime("%b %d, %H:%M"))
-        dict_news["newstext"].append(news.newstext)
-        dict_news["link"].append(news.link)
+        dict_news.append({"znewstext": news.newstext, "timestamp":news.timestamp.strftime("%b %d, %H:%M")})
+    
     # Close Session
     session.close()
     return jsonify(dict_news)
 
 
+# create route that renders index.html template
 @app.route("/")
-def welcome():
-    return (
-        f"Welcome to the Justice League API!<br/>"
-        f"Available Routes:<br/>"
-        f"/api/v1.0/justice-league"
-    )
+def home():
+    
+    
+    
+
+    return render_template("index.html")
+
 # @app.route("/api/v1.0/freeze/<starttime>/<endtime>")
 # def blah (starttime, endtime):
     # query 
