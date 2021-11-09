@@ -57,6 +57,25 @@ def justice_league(year,month,day,hour,minute):
     session.close()
     return jsonify(dict_news)
 
+@app.route("/api/v1.0/power/<year>/<month>/<day>/<hour>")
+def power_outages(year,month,day,hour):
+    """Return the justice league data as json"""
+    session = Session(engine)
+    outages = Base.classes.power_county
+    time2=datetime.datetime(int(year), int(month), int(day), int(hour)) 
+    time1=time2- datetime.timedelta(hours=1)
+    outages_for_hour=session.query(outages.county_name, func.avg(outages.fips_id), func.sum(outages.outage_count_avg),  func.sum(outages.tracket_count)).\
+        filter(outages.record_date_time == time2).group_by(outages.county_name).all()
+    dict_outages=[]
+    for outage in outages_for_hour:
+        if str(outage[1]) != 'None':
+            dict_outages.append({ "county_name": outage[0], "fips_id": int(float(str(outage[1]))), "out_percentage": outage[2]/outage[3]*100 })
+            
+    
+    # Close Session
+    session.close()
+    return jsonify(dict_outages)
+
 
 # create route that renders dashboard.html template
 @app.route("/")

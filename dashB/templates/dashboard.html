@@ -273,7 +273,7 @@
                       .width(800)
                       .displayValue(false)
                       .on('onchange', (val) => {
-                        console.log(val.getHours());
+                        
                         queryUrl = `http://127.0.0.1:5000/api/v1.0/news/${val.getFullYear()}/${val.getMonth() + 1}/${val.getDate()}/${val.getHours()}/${val.getMinutes()}`;
                         d3.json(queryUrl).then(function (newsdata) {
 
@@ -294,6 +294,12 @@
                           });
 
                         });
+
+                        queryUrl1 = `http://127.0.0.1:5000/api/v1.0/power/${val.getFullYear()}/${val.getMonth() + 1}/${val.getDate()}/${val.getHours()}`;
+                        d3.json(queryUrl1).then(function (outagedata) {
+                          console.log(outagedata);
+                        });
+
                         d3.select('#value').text(val);
                       });
 
@@ -748,7 +754,7 @@
   <script src="../assets/js/core/popper.min.js"></script>
   <script src="../assets/js/core/bootstrap.min.js"></script>
   <script src="../assets/js/plugins/perfect-scrollbar.jquery.min.js"></script>
-  <script src="../Stan/static/algorithm.js"></script>
+  
 
   <!--  Google Maps Plugin    -->
   <!-- Place this tag in your head or just before your close body tag. -->
