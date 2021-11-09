@@ -3,12 +3,17 @@ from sqlalchemy.orm import Session
 from sqlalchemy import create_engine, func, inspect
 from flask import Flask, jsonify, render_template, request, redirect
 import datetime as datetime
+import os
 
 
 #################################################
 # Flask Setup
 #################################################
-app = Flask(__name__)
+
+dir_path = os.path.dirname(os.path.realpath(__file__))
+
+
+app = Flask(__name__, root_path=dir_path)
 
 
 # establish the conn to sql on heroku
@@ -62,6 +67,7 @@ def home():
     
 
     return render_template("index.html")
+
 
 # @app.route("/api/v1.0/freeze/<starttime>/<endtime>")
 # def blah (starttime, endtime):
