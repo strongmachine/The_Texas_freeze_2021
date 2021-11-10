@@ -243,18 +243,7 @@
                   <p id="value"></p>
                   <div id="slider"></div>
 
-                  <div id="table-area" class="">
-                    <table id="news-table" class="table table-striped">
-                      <thead>
-                        <tr>
-                          <th class="table-head">Date</th>
-                          <td class="table-head">Event</td>
-
-                        </tr>
-                      </thead>
-                      <tbody id="news_table_body"></tbody>
-                    </table>
-                  </div>
+                  
 
                   <script>
                     var dataTime = d3.range(0, 190).map(function (d) {
@@ -321,13 +310,22 @@
           <div class="col-lg-4">
             <div class="card card-chart">
               <div class="card-header">
-                <h5 class="card-category">Temperature</h5>
-                <h3 class="card-title"><i class="tim-icons icon-bell-55 text-primary"></i>Farenheit</h3>
+                <h5 class="card-category">Events</h5>
+                <h3 class="card-title"><i class="tim-icons icon-bell-55 text-primary"></i>Reuters news</h3>
                 
               </div>
               <div class="card-body">
-                <div class="chart-area">
-                  <canvas id="chartLinePurple"></canvas>
+                <div id="table-area" class="">
+                  <table id="news-table" class="table table-striped">
+                    <thead>
+                      <tr>
+                        <th class="table-head">Date</th>
+                        <td class="table-head">Event</td>
+
+                      </tr>
+                    </thead>
+                    <tbody id="news_table_body"></tbody>
+                  </table>
                 </div>
               </div>
             </div>
@@ -350,14 +348,13 @@
               <div class="card-header">
                 <h5 class="card-category"></h5>
                 <h3 class="card-title"><i class="tim-icons icon-send text-success"></i></h3>
-
-                </a>
+                
+                
               </div>
 
               <div class="chart-area">
-                <canvas id="chartLineGreen">
-                  <div class="card-body">
-                </canvas>
+                
+                <div id="bubblechart"></div>
 
 
 
@@ -753,6 +750,7 @@
   <script src="../assets/js/core/jquery.min.js"></script>
   <script src="../assets/js/core/popper.min.js"></script>
   <script src="../assets/js/core/bootstrap.min.js"></script>
+  
   <script src="../assets/js/plugins/perfect-scrollbar.jquery.min.js"></script>
   
 
@@ -765,6 +763,7 @@
   <script src="../assets/js/plugins/bootstrap-notify.js"></script>
   <!-- Control Center for Black Dashboard: parallax effects, scripts for the example pages etc -->
   <script src="../assets/js/black-dashboard.min.js?v=1.0.0"></script>
+  <script src="../assets/js/demos2.js"></script>
   <!-- Black Dashboard DEMO methods, don't include it in your project! -->
   <script src="../assets/demo/demo.js"></script>
   <script>
@@ -886,6 +885,7 @@
     });
   </script>
   <script src="https://cdn.trackjs.com/agent/v3/latest/t.js"></script>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
   <script>
     window.TrackJS &&
       TrackJS.install({
