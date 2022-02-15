@@ -1,3 +1,11 @@
+![image](https://user-images.githubusercontent.com/86754216/153980693-735efb1d-bca5-4635-a6af-5e0bc7090120.png)
+
+Taking a deeper look into the big Texas Freeze of 2021.
+Visualization through Bootstrap/HTML and css, webscraping and comibining with flask applications to have timelines shown with the corresponding event at that point.
+
+
+
+
 # [Black Dashboard](https://demos.creative-tim.com/black-dashboard/examples/dashboard.html) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?text=Black%20Dashboard%20by%20Creative%20Tim&url=https%3A%2F%2Fdemos.creative-tim.com%2Fblack-dashboard%2Fexamples%2Fdashboard.html&via=CreativeTim)
 
 
